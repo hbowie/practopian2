@@ -1,10 +1,8 @@
 Title:  Rejiggering Our Religion
 
-Status: 0 - Idea
-
 By:    Herb Bowie
 
-Date:  6 Aug 2019
+Date:  13 Aug 2019
 
 Status: 9 - Published
 

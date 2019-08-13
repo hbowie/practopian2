@@ -2,7 +2,7 @@
 ix = 0;
 link = "blog/hbowie/rejiggering-our-religion.html";
 if (link != "") {
-pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-08-06", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "");
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-08-13", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "");
 }
 ix++;
 link = "blog/hbowie/apollo-11-the-most-important-movie-youll-see-this-year.html";

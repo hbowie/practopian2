@@ -2277,7 +2277,7 @@ ix++;
 link = "blog/hbowie/rejiggering-our-religion.html";
 tag = "humanism";
 if (link != "" && tag != "") {
-pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-08-06", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "humanism");
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-08-13", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "humanism");
 }
 ix++;
 link = "blog/hbowie/why-i-call-myself-a-practopian.html";
@@ -3507,7 +3507,7 @@ ix++;
 link = "blog/hbowie/rejiggering-our-religion.html";
 tag = "religion";
 if (link != "" && tag != "") {
-pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-08-06", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "religion");
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-08-13", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "religion");
 }
 ix++;
 link = "blog/hbowie/why-i-call-myself-a-practopian.html";
