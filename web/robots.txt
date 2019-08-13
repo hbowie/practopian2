@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /icons/
+Disallow: /images/
+Disallow: /js/
+Disallow: /open-iconic/
+
+Sitemap: http://practopian.org/sitemap.xml

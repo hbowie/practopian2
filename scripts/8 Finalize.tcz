@@ -1,0 +1,192 @@
+module	action	modifier	object	value
+
+
+<!-- PHASE 6: GENERATE HTML CONTENT FOR EXPLORE PAGES -->
+
+<!-- Generate Explore Page featuring most recent content additions -->
+<!-- Output: ../html/explore/latest-content.html                   -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+filter	add	not equal to	Section	Perspective
+filter	set		params
+template	webroot	text		#PATH#../html/
+template	open	text		#PATH#../factory/explore/latest_all_template.html
+template	generate
+
+<!-- Generate Explore Page featuring most recent original content additions -->
+<!-- Output: ../html/explore/latest-original-content.html                   -->
+
+filter	clear
+filter	set		params
+filter	add	equals	Author	Herb Bowie
+filter	set		params
+sort	clear
+sort	add	Descending	Date
+sort	set		params
+template	webroot	text		#PATH#../html/
+template	open	text		#PATH#../factory/explore/latest_original_template.html
+template	generate
+
+<!-- Merge and create a Consolidated Index File -->
+<!-- Output: ../feed/combined.txt               -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../index/blog-hbowie.txt
+input	open	file	merge	#PATH#../index/basics.txt
+input	open	file	merge	#PATH#../index/issues-sustainability.txt
+input	open	file	merge	#PATH#../index/appreciation.txt
+output	open	file		#PATH#../index/combined.txt
+
+<!-- Generate the Index Page                         -->
+<!-- Output: ../web/explore/site-index.html          -->
+<!-- Output: ../../includes/site-index-letters.html  -->
+<!-- Output: ../../html/explore/site-index.html      -->
+
+sort	add	Ascending	Initial Letter
+sort	add	Ascending	Lower Case Term
+sort	add	Ascending	Section
+sort	add	Ascending	Page Title
+sort	set		params
+template	webroot	text		#PATH#../includes/
+template	open	text		#PATH#../factory/explore/site_index_letters_template.html
+template	generate
+template	webroot	text		#PATH#../html/
+template	open	text		#PATH#../factory/explore/site_index_template.html
+template	generate
+
+<!-- PHASE 7: BUILD FINAL WEB PAGES WITH CONTENT -->
+
+<!-- Generate Web pages for content                     -->
+<!-- Output: ../web/=$path&l$==$content-title&f$=.html  -->
+
+input	set		normalization	0
+input	open	file		#PATH#../lists/content/Sheet 1-Table 1.csv
+sort	add	Ascending	Section Seq
+sort	add	Ascending	Content Seq
+sort	add	Ascending	Author
+sort	add	Ascending	Content Title
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/content_template.html
+template	generate
+
+<!-- Generate web pages for News           -->
+<!-- Output: ../web/news/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/news/
+template	open	text		#PATH#../factory/news_template.html
+template	generate
+
+<!-- Generate web pages for Links           -->
+<!-- Output "../web/links/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/links/
+template	open	text		#PATH#../factory/link_template.html
+template	generate
+
+<!-- Generate web pages for Basic Info       -->
+<!-- Output: ../web/basics/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/basics/
+template	open	text		#PATH#../factory/basics_template.html
+template	generate
+
+<!-- Generate web pages for Appreciations          -->
+<!-- Output: ../web/appreciation/=$title&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	notenik+		#PATH#../content/appreciation/
+template	open	text		#PATH#../factory/appreciation_template.html
+template	generate
+
+<!-- Generate Tags Pages                 -->
+<!-- Output: ../web/tags/=$tag&f$=.html  -->
+
+input	set		normalization	0
+input	set		xpltags	true
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	add	Ascending	Tag
+sort	add	Ascending	Item Type
+sort	add	Descending	Date
+sort	add	Ascending	Title
+sort	set		params
+filter	add	not equal to	Tag
+filter	set		params
+template	open	text		#PATH#../factory/tag_template.html
+template	generate
+
+<!-- Generate Home Page featuring most recent content additions -->
+<!-- Output: ../web/index.html                                  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	add	Descending	Date
+sort	add	Ascending	Section
+sort	add	Ascending	Title
+sort	set		params
+filter	add	not equal to	Section	Core
+filter	add	not equal to	Section	Intro
+filter	add	not equal to	Section	Links
+filter	add	not equal to	Section	News
+filter	add	not equal to	Section	Perspective
+filter	add	not equal to	Section	Quotes
+filter	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/home_template.html
+template	generate
+
+<!-- Generate Javascript Array to hold all items in descending seq by date -->
+<!-- Output: ../web/js/where_to_reverse_chron.js                           -->
+
+template	open	text		#PATH#../factory/where_to_reverse_chron_template.js
+template	generate
+
+<!-- Generate RSS Feed       -->
+<!-- Output: ../web/rss.xml  -->
+
+template	open	text		#PATH#../factory/rss_template.xml
+template	generate
+
+<!-- Generate Search Page               -->
+<!-- Output: ../web/search/search.html  -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	open	file		#PATH#../feed/combined-feed.txt
+sort	clear
+sort	set		params
+template	webroot	text		#PATH#../web/
+template	open	text		#PATH#../factory/search_template.html
+template	generate
+
+<!-- Generate Sitemap.xml -->
+
+input	set		normalization	0
+input	set		xpltags	false
+input	set		dirdepth	3
+input	open	dir		#PATH#../content/
+filter	add	not equal to	Type	Directory
+filter	add	not equal to	English Name	README
+filter	add	not equal to	English Name	template
+filter	add	not equal to	path	dev levels
+filter	add	not equal to	path	beliefs
+filter	add	not equal to	path	perspective
+filter	add	not equal to	path	news
+filter	set		params
+template	open	text		#PATH#../factory/sitemap_template.xml
+template	generate

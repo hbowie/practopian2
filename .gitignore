@@ -1,0 +1,17 @@
+/business
+/forms
+/docs
+/feed
+/html
+/private
+/index
+/medium posts
+/graphics
+/special
+/outlines
+/Tables and Charts
+.DS_Store
+/web/open-iconic/*
+/web/fonts/*
+/web/css/bootstrap*
+/web/js/bootstrap*
