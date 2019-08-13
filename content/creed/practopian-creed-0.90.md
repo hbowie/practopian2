@@ -85,7 +85,7 @@ Feel free to reference the following links for additional information.
 [1]: https://www.Practopian.org/
 [2]: https://www.Practopian.org/creed/practopians-creed.md
 [3]: https://www.Practopian.org/creed/practopians-creed.html
-[4]: https://github.com/hbowie/practopians/
+[4]: https://github.com/hbowie/practopian2/
 [5]: http://www.herbbowie.com
 [6]: http://creativecommons.org/licenses/by-sa/4.0/
 [7]: https://www.Practopian.org/creed/index.html

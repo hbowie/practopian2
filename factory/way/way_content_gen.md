@@ -73,7 +73,7 @@ Feel free to reference the following links for additional information.
 [1]: https://www.Practopian.org/
 [2]: https://www.Practopian.org/way/practopian-way.md
 [3]: https://www.Practopian.org/way/practopian-way.html
-[4]: https://github.com/hbowie/practopians/
+[4]: https://github.com/hbowie/practopian2/
 [hb]: https://www.herbbowie.com
 [cc40]: https://creativecommons.org/licenses/by-sa/4.0/
 [feedback]: mailto:feedback@Practopian.org

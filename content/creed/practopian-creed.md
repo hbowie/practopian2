@@ -21,7 +21,7 @@ We strive to combine a clear-eyed view of what is possible with an idealistic ye
 
 By documenting in an inclusive and transparent manner a foundational modern worldview, we hope to launch something that might be thought of as the world's first [open-source belief system][github].
 
-[github]: https://github.com/hbowie/practopian
+[github]: https://github.com/hbowie/practopian2
 
 We will work to advance our cause through authoring, publication, education, scientific advocacy, and promotion of literature and the arts as vital elements of human culture.
 
@@ -180,7 +180,7 @@ Feel free to reference the following links for additional information.
 [1]: https://www.Practopian.org/
 [2]: https://www.Practopian.org/creed/practopian-creed.md
 [3]: https://www.Practopian.org/creed/practopian-creed.html
-[4]: https://github.com/hbowie/practopians/
+[4]: https://github.com/hbowie/practopian2/
 [hb]: https://www.herbbowie.com
 [cc40]: https://creativecommons.org/licenses/by-sa/4.0/
 [feedback]: mailto:feedback@Practopian.org

@@ -146,7 +146,7 @@ So what do you think? I'm looking forward to your feedback. Send me a note at [h
 [1]: ../../
 [2]: ../../way/practopian-way.md
 [3]: ../../way/practopian-way.html
-[4]: https://github.com/hbowie/practopians/
+[4]: https://github.com/hbowie/practopian2/
 [5]: https://www.herbbowie.com
 [6]: https://creativecommons.org/licenses/by-sa/4.0/
 [7]: ../../way/index.html

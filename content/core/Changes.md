@@ -1,6 +1,6 @@
 Title: Changes
 
-This log tracks major changes to the site, especially in regards to the Core Writings. A more detailed change history can be found on <a href="https://github.com/hbowie/practopians/" target="ref">GitHub</a>.
+This log tracks major changes to the site, especially in regards to the Core Writings. A more detailed change history can be found on <a href="https://github.com/hbowie/practopian2/" target="ref">GitHub</a>.
 
 ### 10 Oct 2018
 
