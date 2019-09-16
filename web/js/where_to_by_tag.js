@@ -1038,6 +1038,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2016-11-10", "What So Many People Don’t Get About the U.S. Working Class", "", "news/what-so-many-people-dont-get-about-the-u.s-working-class.html", "cultural evolution", "cultural evolution");
 }
 ix++;
+link = "quotes/the-only-dependable-things-are-humility-and-looking.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "The only dependable things are humility and looking", "Richard Powers", "quotes/the-only-dependable-things-are-humility-and-looking.html", "cultural evolution, science", "cultural evolution");
+}
+ix++;
 link = "quotes/between-group-selection-became-the-primary-evolutionary-force.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -2022,6 +2028,18 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Blog", "Blog Post", "2013-12-15", "Human Nature", "Herb Bowie", "blog/hbowie/human-nature.html", "cultural evolution, evolution, humanism, stories", "evolution");
 }
 ix++;
+link = "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html";
+tag = "evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:25:37 +0000", "Competition is not separable from endless flavors of cooperation", "Richard Powers", "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html", "evolution, systemic, wonder", "evolution");
+}
+ix++;
+link = "quotes/which-side-will-lose-by-winning.html";
+tag = "evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "Which side will lose by winning", "Richard Powers", "quotes/which-side-will-lose-by-winning.html", "evolution, practopian, systemic", "evolution");
+}
+ix++;
 link = "quotes/the-chicken-experiment.html";
 tag = "evolution";
 if (link != "" && tag != "") {
@@ -2826,6 +2844,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Links", "Link", "2017-02-21", "The Nordic Theory of Everything: In Search of a Better Life", "", "links/the-nordic-theory-of-everything-in-search-of-a-better-life.html", "cultural evolution, liberty", "liberty");
 }
 ix++;
+link = "quotes/more-than-enough.html";
+tag = "liberty";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-30 22:31:29 +0000", "More than enough", "William Blake", "quotes/more-than-enough.html", "liberty", "liberty");
+}
+ix++;
 link = "quotes/the-most-precious-kind-of-freedom.html";
 tag = "liberty";
 if (link != "" && tag != "") {
@@ -2962,6 +2986,12 @@ link = "news/does-decision-making-matter.html";
 tag = "love";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2016-11-25", "Does Decision-Making Matter?", "", "news/does-decision-making-matter.html", "critical thinking, love, wonder", "love");
+}
+ix++;
+link = "quotes/a-hundred-species-of-love.html";
+tag = "love";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:18:11 +0000", "A Hundred Species of Love", "Richard Powers", "quotes/a-hundred-species-of-love.html", "love", "love");
 }
 ix++;
 link = "quotes/tikkun-olam.html";
@@ -3280,6 +3310,12 @@ link = "quotes/careful-thoughtful-small-practical-efforts.html";
 tag = "practical";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Careful, thoughtful, small, practical efforts", "Joseph L. Badaracco, Jr.", "quotes/careful-thoughtful-small-practical-efforts.html", "individuals, practical", "practical");
+}
+ix++;
+link = "quotes/which-side-will-lose-by-winning.html";
+tag = "practopian";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "Which side will lose by winning", "Richard Powers", "quotes/which-side-will-lose-by-winning.html", "evolution, practopian, systemic", "practopian");
 }
 ix++;
 link = "blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html";
@@ -3666,6 +3702,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2015-11-21", "What Science Is -- and How and Why It Works", "", "news/what-science-is-and-how-and-why-it-works.html", "science", "science");
 }
 ix++;
+link = "quotes/the-only-dependable-things-are-humility-and-looking.html";
+tag = "science";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "The only dependable things are humility and looking", "Richard Powers", "quotes/the-only-dependable-things-are-humility-and-looking.html", "cultural evolution, science", "science");
+}
+ix++;
 link = "quotes/the-exercise-of-the-intellect.html";
 tag = "science";
 if (link != "" && tag != "") {
@@ -3820,6 +3862,12 @@ link = "news/how-isis-makes-radicals.html";
 tag = "society";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2015-12-08", "How ISIS Makes Radicals", "", "news/how-isis-makes-radicals.html", "imperfection, individuals, society", "society");
+}
+ix++;
+link = "quotes/my-life-belongs-to-the-whole-community.html";
+tag = "society";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-09-06 19:36:08 +0000", "My Life Belongs to the Whole Community", "George Bernard Shaw", "quotes/my-life-belongs-to-the-whole-community.html", "society", "society");
 }
 ix++;
 link = "quotes/the-chicken-experiment.html";
@@ -4024,6 +4072,12 @@ link = "blog/hbowie/human-nature.html";
 tag = "stories";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Blog", "Blog Post", "2013-12-15", "Human Nature", "Herb Bowie", "blog/hbowie/human-nature.html", "cultural evolution, evolution, humanism, stories", "stories");
+}
+ix++;
+link = "quotes/the-world-is-failing-precisely-because.html";
+tag = "stories";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-09-06 21:55:07 +0000", "The world is failing precisely because", "Richard Powers", "quotes/the-world-is-failing-precisely-because.html", "stories", "stories");
 }
 ix++;
 link = "quotes/time-is-no-match-for-toni-morrison.html";
@@ -4248,6 +4302,18 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Links", "Link", "2018-05-20", "Institute for New Economic Thinking", "", "links/institute-for-new-economic-thinking.html", "systemic", "systemic");
 }
 ix++;
+link = "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:25:37 +0000", "Competition is not separable from endless flavors of cooperation", "Richard Powers", "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html", "evolution, systemic, wonder", "systemic");
+}
+ix++;
+link = "quotes/which-side-will-lose-by-winning.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "Which side will lose by winning", "Richard Powers", "quotes/which-side-will-lose-by-winning.html", "evolution, practopian, systemic", "systemic");
+}
+ix++;
 link = "quotes/capitalism-as-a-market-society.html";
 tag = "systemic";
 if (link != "" && tag != "") {
@@ -4432,6 +4498,12 @@ link = "news/does-decision-making-matter.html";
 tag = "wonder";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2016-11-25", "Does Decision-Making Matter?", "", "news/does-decision-making-matter.html", "critical thinking, love, wonder", "wonder");
+}
+ix++;
+link = "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html";
+tag = "wonder";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:25:37 +0000", "Competition is not separable from endless flavors of cooperation", "Richard Powers", "quotes/competition-is-not-separable-from-endless-flavors-of-cooperation.html", "evolution, systemic, wonder", "wonder");
 }
 ix++;
 link = "quotes/this-strange-hankering-for-play-and-surprise.html";

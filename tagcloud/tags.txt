@@ -226,6 +226,7 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
 democracy
 democracy
 democracy
@@ -333,6 +334,8 @@ equality
 equality
 equality
 equality
+evolution
+evolution
 evolution
 evolution
 evolution
@@ -489,6 +492,8 @@ liberty
 liberty
 liberty
 liberty
+liberty
+love
 love
 love
 love
@@ -545,6 +550,7 @@ practical
 practical
 practical
 practical
+practopian
 progress
 progress
 progress
@@ -621,6 +627,8 @@ science
 science
 science
 science
+science
+society
 society
 society
 society
@@ -679,6 +687,7 @@ stories
 stories
 stories
 stories
+stories
 sustainability
 sustainability
 sustainability
@@ -701,6 +710,8 @@ sustainability
 sustainability
 sustainability
 sustainability
+systemic
+systemic
 systemic
 systemic
 systemic
@@ -736,6 +747,7 @@ value creation
 value creation
 value creation
 value creation
+wonder
 wonder
 wonder
 wonder

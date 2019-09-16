@@ -2,9 +2,8 @@ Title:  The Progressive Problem
 
 Status: 0 - Idea
 
-Body: 
+Author: Herb Bowie
 
-By:    Herb Bowie
 Date:  10 June 2019
 
 Status: 9 - Published
@@ -18,7 +17,6 @@ Index: King Jr., Martin Luther
 Index: politics, US
 Index: progressives
 Index: zombie movies
-
 
 Teaser:
 
