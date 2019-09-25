@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "");
+}
+ix++;
 link = "blog/hbowie/rejiggering-our-religion.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-08-13", "Rejiggering Our Religion", "Herb Bowie", "blog/hbowie/rejiggering-our-religion.html", "humanism, religion", "");

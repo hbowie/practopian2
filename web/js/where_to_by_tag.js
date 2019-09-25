@@ -1374,6 +1374,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "The Discomfort of Thought", "John F. Kennedy", "quotes/the-discomfort-of-thought.html", "critical thinking, cultural evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "democracy");
+}
+ix++;
 link = "blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html";
 tag = "democracy";
 if (link != "" && tag != "") {
@@ -1756,6 +1762,12 @@ link = "quotes/quality-of-children-vs-quantity.html";
 tag = "education";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "education");
+}
+ix++;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+tag = "equality";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "equality");
 }
 ix++;
 link = "blog/hbowie/the-devastating-tragedy-of-our-vanishing-middle-class.html";
@@ -3786,6 +3798,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2018-09-21", "The Village Green Preservation Society", "Herb Bowie", "appreciation/the-village-green-preservation-society.html", "humanism, society", "society");
 }
 ix++;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+tag = "society";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "society");
+}
+ix++;
 link = "blog/hbowie/apollo-11-the-most-important-movie-youll-see-this-year.html";
 tag = "society";
 if (link != "" && tag != "") {
@@ -4272,6 +4290,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "sustainability");
 }
 ix++;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "systemic");
+}
+ix++;
 link = "blog/hbowie/the-challenge-for-democrats-playing-the-long-game.html";
 tag = "systemic";
 if (link != "" && tag != "") {
@@ -4378,6 +4402,12 @@ link = "basics/value-creation.html";
 tag = "value creation";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-07-24", "Value Creation", "Herb Bowie", "basics/value-creation.html", "value creation", "value creation");
+}
+ix++;
+link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
+tag = "value creation";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "value creation");
 }
 ix++;
 link = "blog/hbowie/how-to-fix-big-tech.html";
