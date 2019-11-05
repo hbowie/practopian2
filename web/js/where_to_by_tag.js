@@ -906,6 +906,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/the-personal-vs-the-institutional.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "cultural evolution");
+}
+ix++;
 link = "blog/hbowie/apollo-11-the-most-important-movie-youll-see-this-year.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -1372,6 +1378,12 @@ link = "quotes/the-discomfort-of-thought.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "The Discomfort of Thought", "John F. Kennedy", "quotes/the-discomfort-of-thought.html", "critical thinking, cultural evolution", "cultural evolution");
+}
+ix++;
+link = "blog/hbowie/the-personal-vs-the-institutional.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "democracy");
 }
 ix++;
 link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
@@ -2092,6 +2104,12 @@ link = "quotes/evolutionary-drive-towards-complexity.html";
 tag = "evolution";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2007-09-08 10:13:31", "Evolutionary Drive Towards Complexity", "Richard Dawkins", "quotes/evolutionary-drive-towards-complexity.html", "evolution", "evolution");
+}
+ix++;
+link = "blog/hbowie/the-personal-vs-the-institutional.html";
+tag = "governance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "governance");
 }
 ix++;
 link = "blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html";
@@ -4288,6 +4306,12 @@ link = "quotes/quality-of-children-vs-quantity.html";
 tag = "sustainability";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "sustainability");
+}
+ix++;
+link = "blog/hbowie/the-personal-vs-the-institutional.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "systemic");
 }
 ix++;
 link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";

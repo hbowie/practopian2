@@ -1,34 +1,34 @@
-32	art	https://www.Practopian.org/tags/art.html
-13	balance	https://www.Practopian.org/tags/balance.html
-32	connection	https://www.Practopian.org/tags/connection.html
-71	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
-81	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
-26	democracy	https://www.Practopian.org/tags/democracy.html
-13	diversity	https://www.Practopian.org/tags/diversity.html
-26	education	https://www.Practopian.org/tags/education.html
-44	equality	https://www.Practopian.org/tags/equality.html
-11	evolution	https://www.Practopian.org/tags/evolution.html
-31	governance	https://www.Practopian.org/tags/governance.html
-32	humanism	https://www.Practopian.org/tags/humanism.html
-08	imperfection	https://www.Practopian.org/tags/imperfection.html
-36	individuals	https://www.Practopian.org/tags/individuals.html
-18	integral	https://www.Practopian.org/tags/integral.html
-23	liberty	https://www.Practopian.org/tags/liberty.html
-22	love	https://www.Practopian.org/tags/love.html
-20	mission	https://www.Practopian.org/tags/mission.html
-07	parenthood	https://www.Practopian.org/tags/parenthood.html
-04	population	https://www.Practopian.org/tags/population.html
-04	practical	https://www.Practopian.org/tags/practical.html
-01	practopian	https://www.Practopian.org/tags/practopian.html
-32	progress	https://www.Practopian.org/tags/progress.html
-02	property	https://www.Practopian.org/tags/property.html
-21	religion	https://www.Practopian.org/tags/religion.html
-04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
-18	science	https://www.Practopian.org/tags/science.html
-47	society	https://www.Practopian.org/tags/society.html
-14	stories	https://www.Practopian.org/tags/stories.html
-22	sustainability	https://www.Practopian.org/tags/sustainability.html
-16	systemic	https://www.Practopian.org/tags/systemic.html
-02	tools	https://www.Practopian.org/tags/tools.html
-21	value creation	https://www.Practopian.org/tags/value-creation.html
-18	wonder	https://www.Practopian.org/tags/wonder.html
+00	art	https://www.Practopian.org/tags/art.html
+00	balance	https://www.Practopian.org/tags/balance.html
+00	connection	https://www.Practopian.org/tags/connection.html
+00	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
+00	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
+00	democracy	https://www.Practopian.org/tags/democracy.html
+00	diversity	https://www.Practopian.org/tags/diversity.html
+00	education	https://www.Practopian.org/tags/education.html
+00	equality	https://www.Practopian.org/tags/equality.html
+00	evolution	https://www.Practopian.org/tags/evolution.html
+00	governance	https://www.Practopian.org/tags/governance.html
+00	humanism	https://www.Practopian.org/tags/humanism.html
+00	imperfection	https://www.Practopian.org/tags/imperfection.html
+00	individuals	https://www.Practopian.org/tags/individuals.html
+00	integral	https://www.Practopian.org/tags/integral.html
+00	liberty	https://www.Practopian.org/tags/liberty.html
+00	love	https://www.Practopian.org/tags/love.html
+00	mission	https://www.Practopian.org/tags/mission.html
+00	parenthood	https://www.Practopian.org/tags/parenthood.html
+00	population	https://www.Practopian.org/tags/population.html
+00	practical	https://www.Practopian.org/tags/practical.html
+00	practopian	https://www.Practopian.org/tags/practopian.html
+00	progress	https://www.Practopian.org/tags/progress.html
+00	property	https://www.Practopian.org/tags/property.html
+00	religion	https://www.Practopian.org/tags/religion.html
+00	rule of law	https://www.Practopian.org/tags/rule-of-law.html
+00	science	https://www.Practopian.org/tags/science.html
+00	society	https://www.Practopian.org/tags/society.html
+00	stories	https://www.Practopian.org/tags/stories.html
+00	sustainability	https://www.Practopian.org/tags/sustainability.html
+00	systemic	https://www.Practopian.org/tags/systemic.html
+00	tools	https://www.Practopian.org/tags/tools.html
+00	value creation	https://www.Practopian.org/tags/value-creation.html
+00	wonder	https://www.Practopian.org/tags/wonder.html

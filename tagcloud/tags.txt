@@ -227,6 +227,8 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
+democracy
 democracy
 democracy
 democracy
@@ -347,6 +349,7 @@ evolution
 evolution
 evolution
 evolution
+governance
 governance
 governance
 governance
@@ -713,6 +716,7 @@ sustainability
 sustainability
 sustainability
 sustainability
+systemic
 systemic
 systemic
 systemic

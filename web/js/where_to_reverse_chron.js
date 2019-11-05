@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/the-personal-vs-the-institutional.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "");
+}
+ix++;
 link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-09-25", "The System is Working Very Well, Thank You", "Herb Bowie", "blog/hbowie/the-system-is-working-very-well-thank-you.html", "democracy, equality, society, systemic, value creation", "");
