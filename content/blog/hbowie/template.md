@@ -1,24 +1,24 @@
-Title:  The title of the content
+Title: 
 
 Subtitle: 
 
-Tags:    
+Tags: 
 
-Type:   Post
+Type: 
 
-Author: Herb Bowie
+Author: 
 
-Date:   
+Date: 
 
-Status: 0 - Idea; 1 - In Review; 2 - Approved; 3 - Planned; 4 - In Work; 5 - Held; 6 - Good; 7 - Pending Recurs; 8 - Discarded; 9 - Published;
+Status: 
 
-Link:
+Link: 
 
-Index:  One or more index terms
+Index: 
 
 Image: 
 
 Teaser: 
 
-Body:    
+Body: 
 

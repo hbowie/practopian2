@@ -43,6 +43,8 @@ balance
 balance
 balance
 balance
+balance
+connection
 connection
 connection
 connection
@@ -457,6 +459,7 @@ individuals
 individuals
 individuals
 individuals
+integral
 integral
 integral
 integral

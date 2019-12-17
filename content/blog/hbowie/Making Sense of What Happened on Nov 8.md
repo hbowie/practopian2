@@ -1,15 +1,11 @@
 Title:  Making Sense of What Happened on Nov 8
 
-Status: 6 - Published 
+Status: 6 - Completed
 
-Index: democracy
-Index: Churchill, Winston
-Index: news
-Index: politics, US
-Index: US politics
+Index:  democracy; Churchill, Winston; news; politics, US; US politics; 
 
-Body:   
- 
+Body: 
+
 Trying hard to make sense of what happened last night.
 
 Here are my thoughts.
@@ -33,5 +29,4 @@ For those of us in the first camp, and waking up this morning to be surprised th
 > Democracy is the worst form of government, except for all those others that have been tried.
 
 If there is some unarguably good news in all of this, I suppose it is that our federal gridlock will soon be at an end, and we will then have a chance to evaluate at least one of our political parties on its actions and their consequences, rather than on their posturing and attitudinal alignment.
-
 

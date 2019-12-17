@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-12-17", "My Prayer for a More Integral New Year", "Herb Bowie", "blog/hbowie/my-prayer-for-a-more-integral-new-year.html", "balance, connection, integral", "");
+}
+ix++;
 link = "blog/hbowie/the-personal-vs-the-institutional.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-11-01", "The Personal vs. The Institutional", "Herb Bowie", "blog/hbowie/the-personal-vs-the-institutional.html", "cultural evolution, democracy, governance, systemic", "");

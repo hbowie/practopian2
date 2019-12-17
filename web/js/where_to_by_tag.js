@@ -192,6 +192,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:32", "Vital and Significant Forms of Art", "Raymond Chandler", "quotes/vital-and-significant-forms-of-art.html", "art, individuals", "art");
 }
 ix++;
+link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
+tag = "balance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-17", "My Prayer for a More Integral New Year", "Herb Bowie", "blog/hbowie/my-prayer-for-a-more-integral-new-year.html", "balance, connection, integral", "balance");
+}
+ix++;
 link = "blog/hbowie/how-a-balanced-candidate-might-win-the-presidency.html";
 tag = "balance";
 if (link != "" && tag != "") {
@@ -268,6 +274,12 @@ link = "quotes/a-foolish-consistency.html";
 tag = "balance";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2007-02-16 06:17:11", "A foolish consistency", "Ralph Waldo Emerson", "quotes/a-foolish-consistency.html", "balance", "balance");
+}
+ix++;
+link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
+tag = "connection";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-17", "My Prayer for a More Integral New Year", "Herb Bowie", "blog/hbowie/my-prayer-for-a-more-integral-new-year.html", "balance, connection, integral", "connection");
 }
 ix++;
 link = "quotes/increase-nurturance-thoughout-the-life-span.html";
@@ -2758,6 +2770,12 @@ link = "basics/an-integral-approach.html";
 tag = "integral";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-10-26", "An Integral Approach", "Herb Bowie", "basics/an-integral-approach.html", "integral", "integral");
+}
+ix++;
+link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
+tag = "integral";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-17", "My Prayer for a More Integral New Year", "Herb Bowie", "blog/hbowie/my-prayer-for-a-more-integral-new-year.html", "balance, connection, integral", "integral");
 }
 ix++;
 link = "blog/hbowie/citizen-kane-vs-citizen-bailey.html";
