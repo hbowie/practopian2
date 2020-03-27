@@ -2,9 +2,10 @@ Title: Principles
 
 Body:
 
+
 Our principles identify our most fundamental beliefs about the world and our place in it.
 
-Each principle offers us a useful lens through which to better view and understand ourselves and the world around us. 
+Each principle offers us a useful lens through which to better view and understand ourselves and the world around us.
 
 01. We are [**humanistic**][humanism]: we are focused on human concerns and human potential.
 
@@ -72,4 +73,3 @@ We want to help shape a world in which there is more of this stuff: more love.
 
 
 [love]: ../tags/love.html
-

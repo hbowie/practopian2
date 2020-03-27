@@ -6,6 +6,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2019-03-26", "Paul Thorn and his 800 Pound Jesus", "Herb Bowie", "appreciation/paul-thorn-and-his-800-pound-jesus.html", "art, humanism, religion", "art");
 }
 ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "art";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "art");
+}
+ix++;
 link = "blog/hbowie/citizen-kane-vs-citizen-bailey.html";
 tag = "art";
 if (link != "" && tag != "") {
@@ -192,6 +198,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:32", "Vital and Significant Forms of Art", "Raymond Chandler", "quotes/vital-and-significant-forms-of-art.html", "art, individuals", "art");
 }
 ix++;
+link = "blog/hbowie/what-trump-gets-right.html";
+tag = "balance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-02-11", "What Trump Gets Right", "Herb Bowie", "blog/hbowie/what-trump-gets-right.html", "balance, democracy", "balance");
+}
+ix++;
 link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
 tag = "balance";
 if (link != "" && tag != "") {
@@ -274,6 +286,12 @@ link = "quotes/a-foolish-consistency.html";
 tag = "balance";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2007-02-16 06:17:11", "A foolish consistency", "Ralph Waldo Emerson", "quotes/a-foolish-consistency.html", "balance", "balance");
+}
+ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "connection";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "connection");
 }
 ix++;
 link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
@@ -478,6 +496,18 @@ link = "appreciation/building-a-case-for-the-detective-story.html";
 tag = "critical thinking";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2019-05-07", "Building a Case for the Detective Story", "Herb Bowie", "appreciation/building-a-case-for-the-detective-story.html", "critical thinking, cultural evolution, stories", "critical thinking");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+tag = "critical thinking";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "critical thinking");
+}
+ix++;
+link = "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html";
+tag = "critical thinking";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-02-25", "Why I Use Markdown (And Why You Should Too)", "Herb Bowie", "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html", "critical thinking, written word", "critical thinking");
 }
 ix++;
 link = "blog/hbowie/the-dangers-of-political-nostalgia.html";
@@ -916,6 +946,18 @@ link = "basics/evolution-and-its-implications.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
+}
+ix++;
+link = "blog/hbowie/patterns-of-human-cooperation.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-27", "Patterns of Human Cooperation", "Herb Bowie", "blog/hbowie/patterns-of-human-cooperation.html", "cultural evolution, governance, systemic", "cultural evolution");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "cultural evolution");
 }
 ix++;
 link = "blog/hbowie/the-personal-vs-the-institutional.html";
@@ -1392,6 +1434,18 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "The Discomfort of Thought", "John F. Kennedy", "quotes/the-discomfort-of-thought.html", "critical thinking, cultural evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/what-trump-gets-right.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-02-11", "What Trump Gets Right", "Herb Bowie", "blog/hbowie/what-trump-gets-right.html", "balance, democracy", "democracy");
+}
+ix++;
+link = "blog/hbowie/assessment-of-democratic-presidential-candidates-jan-2020.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-01-15", "Assessment of Democratic Presidential Candidates - Jan 2020", "Herb Bowie", "blog/hbowie/assessment-of-democratic-presidential-candidates-jan-2020.html", "democracy", "democracy");
+}
+ix++;
 link = "blog/hbowie/the-personal-vs-the-institutional.html";
 tag = "democracy";
 if (link != "" && tag != "") {
@@ -1630,6 +1684,12 @@ link = "quotes/ancient-ethnic-sores-belching-fire.html";
 tag = "diversity";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-12-02 12:08:20", "Ancient ethnic sores belching fire", "Don Beck and Chris Cowan", "quotes/ancient-ethnic-sores-belching-fire.html", "cultural evolution, diversity, systemic", "diversity");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+tag = "education";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "education");
 }
 ix++;
 link = "blog/hbowie/my-advice-to-young-people-of-all-ages.html";
@@ -2118,6 +2178,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2007-09-08 10:13:31", "Evolutionary Drive Towards Complexity", "Richard Dawkins", "quotes/evolutionary-drive-towards-complexity.html", "evolution", "evolution");
 }
 ix++;
+link = "blog/hbowie/patterns-of-human-cooperation.html";
+tag = "governance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-27", "Patterns of Human Cooperation", "Herb Bowie", "blog/hbowie/patterns-of-human-cooperation.html", "cultural evolution, governance, systemic", "governance");
+}
+ix++;
 link = "blog/hbowie/the-personal-vs-the-institutional.html";
 tag = "governance";
 if (link != "" && tag != "") {
@@ -2514,6 +2580,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-10-11", "Imperfection", "Herb Bowie", "basics/imperfection.html", "imperfection", "imperfection");
 }
 ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "imperfection";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "imperfection");
+}
+ix++;
 link = "news/how-isis-makes-radicals.html";
 tag = "imperfection";
 if (link != "" && tag != "") {
@@ -2560,6 +2632,12 @@ link = "basics/the-value-of-individuals.html";
 tag = "individuals";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-12-10", "The Value of Individuals", "Herb Bowie", "basics/the-value-of-individuals.html", "individuals", "individuals");
+}
+ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "individuals";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "individuals");
 }
 ix++;
 link = "blog/hbowie/my-advice-to-young-people-of-all-ages.html";
@@ -3024,6 +3102,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2019-01-26", "More Love", "Herb Bowie", "basics/more-love.html", "love", "love");
 }
 ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "love";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "love");
+}
+ix++;
 link = "blog/hbowie/religious-freedom.html";
 tag = "love";
 if (link != "" && tag != "") {
@@ -3364,6 +3448,18 @@ link = "quotes/which-side-will-lose-by-winning.html";
 tag = "practopian";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "Which side will lose by winning", "Richard Powers", "quotes/which-side-will-lose-by-winning.html", "evolution, practopian, systemic", "practopian");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+tag = "progress";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "progress");
+}
+ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "progress";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "progress");
 }
 ix++;
 link = "blog/hbowie/what-the-latest-trump-attack-means-for-democrats.html";
@@ -4326,6 +4422,18 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "sustainability");
 }
 ix++;
+link = "blog/hbowie/patterns-of-human-cooperation.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-27", "Patterns of Human Cooperation", "Herb Bowie", "blog/hbowie/patterns-of-human-cooperation.html", "cultural evolution, governance, systemic", "systemic");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "systemic");
+}
+ix++;
 link = "blog/hbowie/the-personal-vs-the-institutional.html";
 tag = "systemic";
 if (link != "" && tag != "") {
@@ -4444,6 +4552,12 @@ link = "basics/value-creation.html";
 tag = "value creation";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-07-24", "Value Creation", "Herb Bowie", "basics/value-creation.html", "value creation", "value creation");
+}
+ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+tag = "value creation";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "value creation");
 }
 ix++;
 link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
@@ -4678,6 +4792,12 @@ link = "basics/the-written-word-in-the-21st-century.html";
 tag = "written word";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-11-12", "The Written Word in the 21st Century", "Herb Bowie", "basics/the-written-word-in-the-21st-century.html", "written word", "written word");
+}
+ix++;
+link = "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html";
+tag = "written word";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-02-25", "Why I Use Markdown (And Why You Should Too)", "Herb Bowie", "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html", "critical thinking, written word", "written word");
 }
 ix++;
 link = "blog/hbowie/the-progressive-problem.html";

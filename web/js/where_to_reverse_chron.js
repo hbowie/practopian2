@@ -1,5 +1,35 @@
 
 ix = 0;
+link = "blog/hbowie/patterns-of-human-cooperation.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-03-27", "Patterns of Human Cooperation", "Herb Bowie", "blog/hbowie/patterns-of-human-cooperation.html", "cultural evolution, governance, systemic", "");
+}
+ix++;
+link = "blog/hbowie/understanding-human-history.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-03-24", "Understanding Human History", "Herb Bowie", "blog/hbowie/understanding-human-history.html", "critical thinking, cultural evolution, education, progress, systemic", "");
+}
+ix++;
+link = "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-02-25", "Why I Use Markdown (And Why You Should Too)", "Herb Bowie", "blog/hbowie/why-i-use-markdown-and-why-you-should-too.html", "critical thinking, written word", "");
+}
+ix++;
+link = "blog/hbowie/what-trump-gets-right.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-02-11", "What Trump Gets Right", "Herb Bowie", "blog/hbowie/what-trump-gets-right.html", "balance, democracy", "");
+}
+ix++;
+link = "blog/hbowie/assessment-of-democratic-presidential-candidates-jan-2020.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-01-15", "Assessment of Democratic Presidential Candidates - Jan 2020", "Herb Bowie", "blog/hbowie/assessment-of-democratic-presidential-candidates-jan-2020.html", "democracy", "");
+}
+ix++;
+link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-12-27", "Dethroning the False God of User Experience Design", "Herb Bowie", "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html", "art, connection, imperfection, individuals, love, progress, value creation", "");
+}
+ix++;
 link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2019-12-17", "My Prayer for a More Integral New Year", "Herb Bowie", "blog/hbowie/my-prayer-for-a-more-integral-new-year.html", "balance, connection, integral", "");

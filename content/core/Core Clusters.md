@@ -26,7 +26,6 @@ By documenting in an inclusive and transparent manner a foundational modern worl
 
 [github]: https://github.com/hbowie/practopian2
 
-
 We will work to advance our cause through authoring, publication, education, scientific advocacy, and promotion of literature and the arts as vital elements of human culture.
 
 
@@ -36,18 +35,15 @@ We are [**humanistic**][humanism]: we are focused on human concerns and human po
 
 [humanism]:           ../tags/humanism.html
 
-
 We believe that we humans create meaning for ourselves through [**storytelling**][stories], that this fundamental human trait becomes manifest in all forms of artistic expression, and that the resulting works of [art][] are important elements of our culture.
 
 [art]: ../tags/art.html
 [stories]: ../tags/stories.html
 
-
 We place great value on the [**written word**][written-word], including many works of philosophy and literature, but place no faith in any single text that we deem to be sacred.
 
 
 [written-word]: ../tags/written-word.html
-
 
 <h2 id="something-bigger">Something Bigger</h2>
 
@@ -55,12 +51,10 @@ A feeling of caring [**connection**][connection] to others is part of what makes
 
 [connection]: ../tags/connection.html
 
-
 We experience a sense of [**wonder**][wonder] in our approach to the world as we encounter the mysterious, the unexpected, the unfamiliar and the inexplicable.
 
 
 [wonder]: ../tags/wonder.html
-
 
 Although we cannot define the meaning of the word in any comprehensive way -- or, perhaps, *because* we cannot fully define it -- we believe in **[love][]**. 
 
@@ -73,43 +67,36 @@ We want to help shape a world in which there is more of this stuff: more love.
 
 [love]: ../tags/love.html
 
-
 <h2 id="rational-thought">Rational Thought</h2>
 
 We embrace **[science][]** as one way of understanding the universe in which we live, and we accept toolmaking (aka engineering) as one means of improving the human condition.
 
 [science]:            ../tags/science.html
 
-
 We believe in **[evolution][]** as an ongoing force in the world, and in particular are interested in the continuing evolution of [humanity][humanism].
 
 [evolution]:          ../tags/evolution.html
 [humanism]:           ../tags/humanism.html
-
 
 We are particularly interested in **[cultural evolution][cultural-evolution]**, since what it means to be human is so intertwined with our cultural identity.
 
 
 [cultural-evolution]: ../tags/cultural-evolution.html
 
-
 We believe that we can produce better outcomes for humanity through the application of **[critical thinking][critical-thinking]** and the use of the [scientific method][science].
 
 [critical-thinking]: ../tags/critical-thinking.html
 [science]: ../tags/science.html
-
 
 In order to achieve positive outcomes from the **[complex social, economic, and ecological systems][systemic]** in which we live, we believe we must think systemically -- rather than simply focusing on the individual actors within these systems -- and need to identify root causes and take actions at that level.
 
 
 [systemic]: ../tags/systemic.html
 
-
 It is in the best interests of society to assist in the **[education][]** of its members.
 
 
 [education]: ../tags/education.html
-
 
 <h2 id="our-social-contract">Our Social Contract</h2>
 
@@ -118,33 +105,27 @@ We value the social fabric that binds us together as part of a shared human comm
 [governance]: ../tags/governance.html
 [society]: ../tags/society.html
 
-
 We believe in **[democracy][democracy]**, with all citizens having an equal say in defining their society's laws, and an equal opportunity to influence their governments.
 
 [democracy]:  ../tags/democracy.html
 
-
 Every society should establish a **[rule of law][rule-of-law]** to govern human interaction, to channel human energy along constructive paths, and to promote useful order; these rules should be constructed in accordance with Practopian principles and values; it is the duty of citizens of a society to obey such rules.
 
 [rule-of-law]: ../tags/rule-of-law.html
-
 
 We believe in the private ownership of most **[property][]**, but also in the public ownership of property that can benefit society at large through shared usage.
 
 
 [property]: ../tags/property.html
 
-
 **[Parents][parenthood]** have an obligation to help their children become healthy, happy adults who make their own positive contributions to society.
 
 
 [parenthood]: ../tags/parenthood.html
 
-
 It is in the best interests of society to encourage its citizens to engage in activities that will **[create value][value]** for themselves and others and society at large, and to allocate capital so that the greatest amount of it is available for use by those with the strongest likelihood of using it wisely.
 
 [value]: ../tags/value-creation.html
-
 
 <h2 id="value-of-individuals">Value of Individuals</h2>
 
@@ -152,21 +133,17 @@ We believe that **[ordinary individuals][individuals]** have the power to shape 
 
 [individuals]: ../tags/individuals.html
 
-
 We believe in allowing adults as much **[liberty][]** as practical, so long as they do not infringe on the life and liberty of others, either directly and individually, or indirectly and communally.
 
 [liberty]: ../tags/liberty.html
-
 
 All citizens must be treated with **[equality][]** before the law, without discrimination based on appearance, gender, ethnic origin, race, sexual preference, wealth or social status.
 
 [equality]:  ../tags/equality.html
 
-
 We believe in the **[diverse][diversity]** expression of human potential.
 
 [diversity]:  ../tags/diversity.html
-
 
 <h2 id="some-guard-rails">Some Guard Rails</h2>
 
@@ -175,15 +152,12 @@ We harbor no romantic notions about the **[perfectibility][imperfection]** of hu
 
 [imperfection]: ../tags/imperfection.html
 
-
 We believe in striving for **[balance][]** between competing concerns. Although all of the values on this list are important to us, we have no desire to establish any one of them as fundamentally absolute.
 
 
 [balance]: ../tags/balance.html
 
-
 We strive to **[integrate][integral]** multiple diverse human perspectives in order to arrive at a more complete understanding of ourselves and the world around us.
 
 [integral]:     ../tags/integral.html
-
 

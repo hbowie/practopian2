@@ -1,23 +1,21 @@
-Title: The Dangers of Political Nostalgia
+Title:  The Dangers of Political Nostalgia
 
-By:    Herb Bowie
+Tags:   critical thinking, democracy, governance
 
-Date:  25 Jun 2019
+Author: Herb Bowie
 
-Status: 9 - Published
+Date:   25 Jun 2019
 
-Index: US politics
-Index: centrist
-Index: Democrats
-Index: Republicans
+Status: 9 - Closed
 
-Tags:  democracy, governance, critical thinking
+Index:  US politics; centrist; Democrats; Republicans; 
 
-Teaser:
+Teaser: 
 
 I'm not quite as old as Biden, and I've never served in public office, but I can still share his nostalgia for seemingly simpler times when our political leaders displayed some sort of respect for each other, even when they disagreed over issues of state. However it's one thing to reveal a preference for certain elements of those bygone days, but quite another to base your presidential run on wishful thinking that those lost elements can somehow be restored in the third decade of the 21st century.
 
-Body:
+
+Body: 
 
 <p><img src="../../images/mr-smith.jpg" alt="Mr. Smith Goes to Washington" title="Mr. Smith Goes to Washington" /></p>
 

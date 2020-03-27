@@ -30,6 +30,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -44,6 +45,7 @@ balance
 balance
 balance
 balance
+balance
 connection
 connection
 connection
@@ -77,6 +79,7 @@ connection
 connection
 connection
 connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -148,6 +151,10 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+critical thinking
+critical thinking
+cultural evolution
+cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
@@ -230,6 +237,8 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+democracy
+democracy
 democracy
 democracy
 democracy
@@ -270,6 +279,7 @@ diversity
 diversity
 diversity
 diversity
+education
 education
 education
 education
@@ -351,6 +361,7 @@ evolution
 evolution
 evolution
 evolution
+governance
 governance
 governance
 governance
@@ -423,6 +434,8 @@ imperfection
 imperfection
 imperfection
 imperfection
+imperfection
+individuals
 individuals
 individuals
 individuals
@@ -501,6 +514,7 @@ liberty
 liberty
 liberty
 liberty
+love
 love
 love
 love
@@ -591,6 +605,8 @@ progress
 progress
 progress
 progress
+progress
+progress
 property
 property
 religion
@@ -736,6 +752,8 @@ systemic
 systemic
 systemic
 systemic
+systemic
+systemic
 tools
 tools
 value creation
@@ -759,6 +777,7 @@ value creation
 value creation
 value creation
 value creation
+value creation
 wonder
 wonder
 wonder
@@ -777,6 +796,7 @@ wonder
 wonder
 wonder
 wonder
+written word
 written word
 written word
 written word

@@ -1,26 +1,26 @@
-32	art	https://www.Practopian.org/tags/art.html
-14	balance	https://www.Practopian.org/tags/balance.html
-33	connection	https://www.Practopian.org/tags/connection.html
-71	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
-82	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
-27	democracy	https://www.Practopian.org/tags/democracy.html
+33	art	https://www.Practopian.org/tags/art.html
+15	balance	https://www.Practopian.org/tags/balance.html
+34	connection	https://www.Practopian.org/tags/connection.html
+73	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
+84	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
+29	democracy	https://www.Practopian.org/tags/democracy.html
 13	diversity	https://www.Practopian.org/tags/diversity.html
-26	education	https://www.Practopian.org/tags/education.html
+27	education	https://www.Practopian.org/tags/education.html
 44	equality	https://www.Practopian.org/tags/equality.html
 11	evolution	https://www.Practopian.org/tags/evolution.html
-32	governance	https://www.Practopian.org/tags/governance.html
+33	governance	https://www.Practopian.org/tags/governance.html
 32	humanism	https://www.Practopian.org/tags/humanism.html
-08	imperfection	https://www.Practopian.org/tags/imperfection.html
-36	individuals	https://www.Practopian.org/tags/individuals.html
+09	imperfection	https://www.Practopian.org/tags/imperfection.html
+37	individuals	https://www.Practopian.org/tags/individuals.html
 19	integral	https://www.Practopian.org/tags/integral.html
 23	liberty	https://www.Practopian.org/tags/liberty.html
-22	love	https://www.Practopian.org/tags/love.html
+23	love	https://www.Practopian.org/tags/love.html
 20	mission	https://www.Practopian.org/tags/mission.html
 07	parenthood	https://www.Practopian.org/tags/parenthood.html
 04	population	https://www.Practopian.org/tags/population.html
 04	practical	https://www.Practopian.org/tags/practical.html
 01	practopian	https://www.Practopian.org/tags/practopian.html
-32	progress	https://www.Practopian.org/tags/progress.html
+34	progress	https://www.Practopian.org/tags/progress.html
 02	property	https://www.Practopian.org/tags/property.html
 21	religion	https://www.Practopian.org/tags/religion.html
 04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
@@ -28,7 +28,7 @@
 47	society	https://www.Practopian.org/tags/society.html
 14	stories	https://www.Practopian.org/tags/stories.html
 22	sustainability	https://www.Practopian.org/tags/sustainability.html
-17	systemic	https://www.Practopian.org/tags/systemic.html
+19	systemic	https://www.Practopian.org/tags/systemic.html
 02	tools	https://www.Practopian.org/tags/tools.html
-21	value creation	https://www.Practopian.org/tags/value-creation.html
+22	value creation	https://www.Practopian.org/tags/value-creation.html
 18	wonder	https://www.Practopian.org/tags/wonder.html

@@ -103,7 +103,7 @@ And now we come to the first delivery of the song's chorus.
 > He's an eight-hundred pound Jesus,  
 > A bigger man than you or me.  
 
-Again we find the comic mixed with the epic, and again we find more playful ambiguity: "a bigger man than you or me." I mean, of course, this 800 pound, eight-foot figure is literally larger than either the singer or the listener, but we're also referring to the stature of his character, aren't we? But then, is it the character of the person/god the status is meant to represent, or is it the character of the statue itself? 
+Again we find the comic mixed with the epic, and again we find more playful ambiguity: "a bigger man than you or me." I mean, of course, this 800 pound, eight-foot figure is literally larger than either the singer or the listener, but we're also referring to the stature of his character, aren't we? But then, is it the character of the person/god the statue is meant to represent, or is it the character of the statue itself? 
 
 Let's see how the next chapter unfolds. 
 

@@ -1,22 +1,21 @@
-Title: What the Latest Trump Attack Means for Democrats
+Title:  What the Latest Trump Attack Means for Democrats
 
-By:    Herb Bowie
+Tags:   democracy, governance, progress
 
-Date:  16 Jul 2019
+Author: Herb Bowie
 
-Status: 9 - Published
+Date:   16 Jul 2019
 
-Index: US politics
-Index: Democrats
-Index: Republicans
+Status: 9 - Closed
 
-Tags:  democracy, governance, progress
+Index:  US politics; Democrats; Republicans; 
 
-Teaser:
+Teaser: 
 
 By now I'm sure you've heard of Trump's recent attacks on four Democratic congressional representatives, all women of color, urging them to "go back ... to the crime-infested places from which they came." How should Democrats respond? Here are the sorts of positions I'd like to hear them articulate.
 
-Body:
+
+Body: 
 
 <p><img src="../../images/arrows-confrontation.jpg" alt="Arrows Pointing Toward A Confrontation" title="Arrows Pointing Toward A Confrontation" /></p>
 
