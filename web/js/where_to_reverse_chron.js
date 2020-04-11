@@ -1,5 +1,15 @@
 
 ix = 0;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "");
+}
+ix++;
+link = "appreciation/the-weight.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Appreciation", "Appreciation", "2020-04-06", "The Weight", "Herb Bowie", "appreciation/the-weight.html", "art, connection, cultural evolution", "");
+}
+ix++;
 link = "blog/hbowie/patterns-of-human-cooperation.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-03-27", "Patterns of Human Cooperation", "Herb Bowie", "blog/hbowie/patterns-of-human-cooperation.html", "cultural evolution, governance, systemic", "");

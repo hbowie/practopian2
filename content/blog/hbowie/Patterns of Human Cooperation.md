@@ -25,7 +25,9 @@ Body:
 
 *Required disclosure: links provided to books mentioned below will take you to the Amazon website and, if you buy something there, I may eventually receive a small pittance as a result.*
 
-As humans our superpower is the ability to work cooperatively with others of our species. 
+In a [previous post][human-history] I talked about human history being best understood as a progressive spiral made up of four intertwining strands, with the third of those strands consisting of our increasing ability to cooperate with each other. This post is the first of several in which I'll elaborate on my understanding of this element of our human history. 
+
+As humans it can be fairly said that our superpower is the ability to work cooperatively with others of our species. 
 
 As Israeli historian Yuval Noah Harari says in his book <cite>[Homo Deus: A Brief History of Tomorrow][hd]</cite>:
 
@@ -39,13 +41,13 @@ But these seemingly simple ideas of cooperation and coordination turn out to be 
 
 ## Functional Patterns of Cooperation
 
-In an organization of any appreciable size, all of the following patterns of cooperation can be found.  
+In an organization/society of any appreciable size, all of the following patterns of cooperation can be found.  
 
 1. **Direct apprehension of the immediate environment**, combined with application of internalized knowledge, motivated by personally felt goals. 
 
 	(While you may initially protest that this seems to involve no cooperation at all, it must be mentioned, for it is the fundamental building block on which all of the following depend.)
 
-2. **Direct communication with peers**. 
+2. **Direct communication with peers**. In other words, exchange of information and ideas with people you work with on a daily basis. 
 
 3. **Group understanding and acceptance of Shared Goals**, constraints, norms, contributions and benefits: in other words, team formation.
 
@@ -107,13 +109,15 @@ Here are just a few examples of how things can go terribly wrong.
 
 Of course getting all of this right is easier said than done, and in practice it is easy to get too much of one thing, and not enough of another, and so organizational cooperation done right involves a constant recalibration of forces to try to optimize the levels of healthy participation in all of the patterns listed above. 
 
-But hopefully having a fairly complete list of patterns of cooperation to keep an eye on will prove helpful, since by far the most common organizational failing is to narrowly focus on only one or two of these at a time, while ignoring the others. 
+But hopefully having a fairly complete list of patterns of cooperation to keep an eye on will prove helpful, since by far the most common organizational/societal failing is to narrowly focus on only one or two of these at a time, while ignoring the others. 
 
 [am]: https://agilemanifesto.org 
 
 [cmm]: https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration
 
 [hd]: https://amzn.to/2UTY1zZ
+
+[human-history]: https://practopian.org/blog/hbowie/understanding-human-history.html
 
 [ipt]: https://en.wikipedia.org/wiki/Integrated_product_team
 

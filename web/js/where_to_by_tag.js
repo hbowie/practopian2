@@ -1,5 +1,11 @@
 
 ix = 0;
+link = "appreciation/the-weight.html";
+tag = "art";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2020-04-06", "The Weight", "Herb Bowie", "appreciation/the-weight.html", "art, connection, cultural evolution", "art");
+}
+ix++;
 link = "appreciation/paul-thorn-and-his-800-pound-jesus.html";
 tag = "art";
 if (link != "" && tag != "") {
@@ -286,6 +292,18 @@ link = "quotes/a-foolish-consistency.html";
 tag = "balance";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2007-02-16 06:17:11", "A foolish consistency", "Ralph Waldo Emerson", "quotes/a-foolish-consistency.html", "balance", "balance");
+}
+ix++;
+link = "appreciation/the-weight.html";
+tag = "connection";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2020-04-06", "The Weight", "Herb Bowie", "appreciation/the-weight.html", "art, connection, cultural evolution", "connection");
+}
+ix++;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+tag = "connection";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "connection");
 }
 ix++;
 link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";
@@ -930,6 +948,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:32", "Those Sharp, Scratchy, Harsh, Almost Unpleasant Guys", "Thomas J. Watson, Jr", "quotes/those-sharp-scratchy-harsh-almost-unpleasant-guys.html", "critical thinking", "critical thinking");
 }
 ix++;
+link = "appreciation/the-weight.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2020-04-06", "The Weight", "Herb Bowie", "appreciation/the-weight.html", "art, connection, cultural evolution", "cultural evolution");
+}
+ix++;
 link = "appreciation/building-a-case-for-the-detective-story.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -946,6 +970,12 @@ link = "basics/evolution-and-its-implications.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
+}
+ix++;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "cultural evolution");
 }
 ix++;
 link = "blog/hbowie/patterns-of-human-cooperation.html";
@@ -2850,6 +2880,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-10-26", "An Integral Approach", "Herb Bowie", "basics/an-integral-approach.html", "integral", "integral");
 }
 ix++;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+tag = "integral";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "integral");
+}
+ix++;
 link = "blog/hbowie/my-prayer-for-a-more-integral-new-year.html";
 tag = "integral";
 if (link != "" && tag != "") {
@@ -3930,6 +3966,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2018-09-21", "The Village Green Preservation Society", "Herb Bowie", "appreciation/the-village-green-preservation-society.html", "humanism, society", "society");
 }
 ix++;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+tag = "society";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "society");
+}
+ix++;
 link = "blog/hbowie/the-system-is-working-very-well-thank-you.html";
 tag = "society";
 if (link != "" && tag != "") {
@@ -4420,6 +4462,12 @@ link = "quotes/quality-of-children-vs-quantity.html";
 tag = "sustainability";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "sustainability");
+}
+ix++;
+link = "blog/hbowie/core-design-principles-for-teams.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "systemic");
 }
 ix++;
 link = "blog/hbowie/patterns-of-human-cooperation.html";

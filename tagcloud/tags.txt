@@ -31,6 +31,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -80,6 +81,8 @@ connection
 connection
 connection
 connection
+connection
+connection
 critical thinking
 critical thinking
 critical thinking
@@ -153,6 +156,8 @@ critical thinking
 critical thinking
 critical thinking
 critical thinking
+cultural evolution
+cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
@@ -472,6 +477,7 @@ individuals
 individuals
 individuals
 individuals
+integral
 integral
 integral
 integral
@@ -699,6 +705,7 @@ society
 society
 society
 society
+society
 stories
 stories
 stories
@@ -735,6 +742,7 @@ sustainability
 sustainability
 sustainability
 sustainability
+systemic
 systemic
 systemic
 systemic
