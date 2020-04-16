@@ -1464,6 +1464,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "The Discomfort of Thought", "John F. Kennedy", "quotes/the-discomfort-of-thought.html", "critical thinking, cultural evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/why-do-we-call-it-capitalism.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-16", "Why Do We Call It Capitalism?", "Herb Bowie", "blog/hbowie/why-do-we-call-it-capitalism.html", "democracy, society, value creation", "democracy");
+}
+ix++;
 link = "blog/hbowie/what-trump-gets-right.html";
 tag = "democracy";
 if (link != "" && tag != "") {
@@ -3966,6 +3972,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2018-09-21", "The Village Green Preservation Society", "Herb Bowie", "appreciation/the-village-green-preservation-society.html", "humanism, society", "society");
 }
 ix++;
+link = "blog/hbowie/why-do-we-call-it-capitalism.html";
+tag = "society";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-16", "Why Do We Call It Capitalism?", "Herb Bowie", "blog/hbowie/why-do-we-call-it-capitalism.html", "democracy, society, value creation", "society");
+}
+ix++;
 link = "blog/hbowie/core-design-principles-for-teams.html";
 tag = "society";
 if (link != "" && tag != "") {
@@ -4600,6 +4612,12 @@ link = "basics/value-creation.html";
 tag = "value creation";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-07-24", "Value Creation", "Herb Bowie", "basics/value-creation.html", "value creation", "value creation");
+}
+ix++;
+link = "blog/hbowie/why-do-we-call-it-capitalism.html";
+tag = "value creation";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-04-16", "Why Do We Call It Capitalism?", "Herb Bowie", "blog/hbowie/why-do-we-call-it-capitalism.html", "democracy, society, value creation", "value creation");
 }
 ix++;
 link = "blog/hbowie/dethroning-the-false-god-of-user-experience-design.html";

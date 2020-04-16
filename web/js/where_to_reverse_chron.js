@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/why-do-we-call-it-capitalism.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-04-16", "Why Do We Call It Capitalism?", "Herb Bowie", "blog/hbowie/why-do-we-call-it-capitalism.html", "democracy, society, value creation", "");
+}
+ix++;
 link = "blog/hbowie/core-design-principles-for-teams.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-04-09", "Core Design Principles for Teams", "Herb Bowie", "blog/hbowie/core-design-principles-for-teams.html", "connection, cultural evolution, integral, society, systemic", "");
