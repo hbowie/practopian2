@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-05-10", "8 Big Lessons We Can Learn from the Pandemic", "Herb Bowie", "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html", "cultural evolution, sustainability", "");
+}
+ix++;
 link = "blog/hbowie/why-do-we-call-it-capitalism.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-04-16", "Why Do We Call It Capitalism?", "Herb Bowie", "blog/hbowie/why-do-we-call-it-capitalism.html", "democracy, society, value creation", "");

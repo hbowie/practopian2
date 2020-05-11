@@ -972,6 +972,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-05-10", "8 Big Lessons We Can Learn from the Pandemic", "Herb Bowie", "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html", "cultural evolution, sustainability", "cultural evolution");
+}
+ix++;
 link = "blog/hbowie/core-design-principles-for-teams.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -4342,6 +4348,12 @@ link = "quotes/cockpits-with-instruments-controlled-by-gremlins.html";
 tag = "stories";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-12-19 16:27:23", "Cockpits with Instruments Controlled by Gremlins", "Robert D. Austin", "quotes/cockpits-with-instruments-controlled-by-gremlins.html", "humanism, liberty, stories", "stories");
+}
+ix++;
+link = "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html";
+tag = "sustainability";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-05-10", "8 Big Lessons We Can Learn from the Pandemic", "Herb Bowie", "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html", "cultural evolution, sustainability", "sustainability");
 }
 ix++;
 link = "blog/hbowie/our-three-human-approaches-to-dealing-with-problems.html";
