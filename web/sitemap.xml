@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://practopian.org/index.html</loc>
-<lastmod>2020-05-10</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/appreciation/paul-thorn-and-his-800-pound-jesus.html</loc>
@@ -65,6 +65,10 @@
 <lastmod>2018-08-21</lastmod>
 </url>
 <url>
+<loc>https://practopian.org/basics/democracy.html</loc>
+<lastmod>2020-06-03</lastmod>
+</url>
+<url>
 <loc>https://practopian.org/basics/evolution-and-its-implications.html</loc>
 <lastmod>2018-08-04</lastmod>
 </url>
@@ -86,15 +90,15 @@
 </url>
 <url>
 <loc>https://practopian.org/core/principles.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/core/mission.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/core/core-clusters.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/core/about-the-principles-and-values.html</loc>
@@ -106,7 +110,7 @@
 </url>
 <url>
 <loc>https://practopian.org/core/values.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/core/index.html</loc>
@@ -162,7 +166,7 @@
 </url>
 <url>
 <loc>https://practopian.org/way/practopian-way.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/way/readme.html</loc>
@@ -642,7 +646,7 @@
 </url>
 <url>
 <loc>https://practopian.org/creed/practopian-creed.html</loc>
-<lastmod>2020-03-24</lastmod>
+<lastmod>2020-06-03</lastmod>
 </url>
 <url>
 <loc>https://practopian.org/creed/practopian-creed-0.90.html</loc>

@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "basics/democracy.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Basics", "Basic Info", "2020-06-03", "Democracy", "Herb Bowie", "basics/democracy.html", "democracy", "");
+}
+ix++;
 link = "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-05-10", "8 Big Lessons We Can Learn from the Pandemic", "Herb Bowie", "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html", "cultural evolution, sustainability", "");

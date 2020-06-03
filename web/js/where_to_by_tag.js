@@ -42,6 +42,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Links", "Link", "2017-01-31", "The Left Hand of Darkness", "", "links/the-left-hand-of-darkness.html", "art, cultural evolution", "art");
 }
 ix++;
+link = "quotes/cinema-was-about-revelation.html";
+tag = "art";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-11-05 15:22:50 +0000", "Cinema was about revelation", "Martin Scorsese", "quotes/cinema-was-about-revelation.html", "art", "art");
+}
+ix++;
 link = "quotes/the-divine-literatus.html";
 tag = "art";
 if (link != "" && tag != "") {
@@ -1470,6 +1476,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "The Discomfort of Thought", "John F. Kennedy", "quotes/the-discomfort-of-thought.html", "critical thinking, cultural evolution", "cultural evolution");
 }
 ix++;
+link = "basics/democracy.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Basics", "Basic Info", "2020-06-03", "Democracy", "Herb Bowie", "basics/democracy.html", "democracy", "democracy");
+}
+ix++;
 link = "blog/hbowie/why-do-we-call-it-capitalism.html";
 tag = "democracy";
 if (link != "" && tag != "") {
@@ -1600,6 +1612,18 @@ link = "blog/hbowie/religion-storytelling-and-art.html";
 tag = "democracy";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Blog", "Blog Post", "2014-11-27", "Religion, Storytelling and Art", "Herb Bowie", "blog/hbowie/religion-storytelling-and-art.html", "cultural evolution, democracy, humanism, religion, science, written word", "democracy");
+}
+ix++;
+link = "quotes/unwritten-democratic-norms.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2020-05-21 17:09:31 +0000", "Unwritten Democratic Norms", "Steven Levitsky and Daniel Ziblatt", "quotes/unwritten-democratic-norms.html", "democracy", "democracy");
+}
+ix++;
+link = "quotes/americans-faith-in-democracy-is-at-a-record-low.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2020-02-03 18:12:08 +0000", "Americans' faith in democracy is at a record low", "Leah Greenberg and Ezra Levin", "quotes/americans-faith-in-democracy-is-at-a-record-low.html", "democracy", "democracy");
 }
 ix++;
 link = "quotes/public-morality.html";
@@ -2290,6 +2314,18 @@ link = "news/a-76k-monthly-pension-why-states-and-cities-are-short-on-cash.html"
 tag = "governance";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("News", "News Item", "2018-04-14", "A 76K Monthly Pension - Why States and Cities Are Short on Cash", "", "news/a-76k-monthly-pension-why-states-and-cities-are-short-on-cash.html", "cultural evolution, governance, society", "governance");
+}
+ix++;
+link = "quotes/our-political-system-is-not-equipped-to-deliver-solutions.html";
+tag = "governance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2020-02-03 18:07:19 +0000", "Our political system is not equipped to deliver solutions", "Leah Greenberg and Ezra Levin", "quotes/our-political-system-is-not-equipped-to-deliver-solutions.html", "governance", "governance");
+}
+ix++;
+link = "quotes/a-reactionary-conservative-party.html";
+tag = "governance";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Quotes", "Quotation", "2020-02-03 18:07:19 +0000", "A reactionary conservative party", "Leah Greenberg and Ezra Levin", "quotes/a-reactionary-conservative-party.html", "governance", "governance");
 }
 ix++;
 link = "quotes/living-with-the-strains-of-complexity.html";

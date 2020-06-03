@@ -32,6 +32,7 @@ art
 art
 art
 art
+art
 balance
 balance
 balance
@@ -243,6 +244,9 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+democracy
+democracy
+democracy
 democracy
 democracy
 democracy
@@ -368,6 +372,8 @@ evolution
 evolution
 evolution
 evolution
+governance
+governance
 governance
 governance
 governance
