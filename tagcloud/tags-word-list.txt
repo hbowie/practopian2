@@ -2,11 +2,11 @@
 15	balance	https://www.Practopian.org/tags/balance.html
 36	connection	https://www.Practopian.org/tags/connection.html
 73	critical thinking	https://www.Practopian.org/tags/critical-thinking.html
-87	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
+88	cultural evolution	https://www.Practopian.org/tags/cultural-evolution.html
 33	democracy	https://www.Practopian.org/tags/democracy.html
 13	diversity	https://www.Practopian.org/tags/diversity.html
 27	education	https://www.Practopian.org/tags/education.html
-44	equality	https://www.Practopian.org/tags/equality.html
+45	equality	https://www.Practopian.org/tags/equality.html
 11	evolution	https://www.Practopian.org/tags/evolution.html
 35	governance	https://www.Practopian.org/tags/governance.html
 32	humanism	https://www.Practopian.org/tags/humanism.html
@@ -25,7 +25,7 @@
 21	religion	https://www.Practopian.org/tags/religion.html
 04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
 18	science	https://www.Practopian.org/tags/science.html
-49	society	https://www.Practopian.org/tags/society.html
+50	society	https://www.Practopian.org/tags/society.html
 14	stories	https://www.Practopian.org/tags/stories.html
 23	sustainability	https://www.Practopian.org/tags/sustainability.html
 20	systemic	https://www.Practopian.org/tags/systemic.html

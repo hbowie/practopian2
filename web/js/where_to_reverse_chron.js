@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-06-15", "Can the US Become a Truly Egalitarian Society?", "Herb Bowie", "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html", "cultural evolution, equality, society", "");
+}
+ix++;
 link = "basics/democracy.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Basics", "Basic Info", "2020-06-03", "Democracy", "Herb Bowie", "basics/democracy.html", "democracy", "");

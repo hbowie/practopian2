@@ -244,6 +244,7 @@ cultural evolution
 cultural evolution
 cultural evolution
 cultural evolution
+cultural evolution
 democracy
 democracy
 democracy
@@ -317,6 +318,7 @@ education
 education
 education
 education
+equality
 equality
 equality
 equality
@@ -666,6 +668,7 @@ science
 science
 science
 science
+society
 society
 society
 society
