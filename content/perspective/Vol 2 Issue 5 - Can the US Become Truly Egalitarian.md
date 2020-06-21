@@ -1,41 +1,38 @@
-Title: Can the US Become a Truly Egalitarian Society?
+Title: Vol 2 Issue 5 - Can the US Become a Truly Egalitarian Society?
 
-By:    Herb Bowie
+Date:  2020-06-20
 
-Date:  15 Jun 2020
-
-Status: 9 - Published
-
-Index: Arbery, Ahmaud
-Index: Armstrong, Louis
-Index: Black Americans
-Index: Declaration of Independence
-Index: Floyd, George
-Index: Fox News
-Index: Mar-a-Lago
-Index: Native Americans
-Index: Rand, Ayn
-Index: Taylor, Breanna
-Index: Trump, Donald
-Index: cultural evolution
-Index: egalitarian
-Index: equality
-Index: hierarchical
-Index: police
-Index: politics, US
-Index: society
-
-Image: louis-armstrong-stamp.jpg
-
-Tags: equality, cultural evolution, society
+Seq:   2.05
 
 Teaser:
 
-As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. And I've concluded that there are basically two types of human societies, with very different ways of thinking about themselves. 
+Check out the latest issue of *The Practopian Perspective*, an email that goes out every so often to my patient subscribers.
 
 Body:
 
-<p><img src="../../images/louis-armstrong-stamp.jpg" alt="Louis Armstrong stamp" title="Louis Armstrong stamp" /></p>
+<p><img src="https://practopian.org/images/louis-armstrong-stamp.jpg" alt="Louis Armstrong Stamp" title="Louis Armstrong Stamp" width="600" style="width: 100%; max-width: 600px;" /></p>
+
+Feel free to share generously with like-minded friends. If someone forwarded this issue to you, then you can [sign up at no charge to receive your very own copy in the future](http://eepurl.com/c0Smf5). 
+
+
+## Quotation
+
+"The simple fact of the matter is that the world has never built a multiethnic democracy in which no particular ethnic group is in the majority and where political equality, social equality and economies that empower all have been achieved. We are engaged in a fight over whether to work together to build such a world."
+
+-- Danielle Allen, 13 Aug 2017, from the Essay titled "[Charlottesville is not the continuation of an old fight. It is something new.](https://www.washingtonpost.com/opinions/charlottesville-is-not-the-continuation-of-an-old-fight-it-is-something-new/2017/08/13/971812f6-8029-11e7-b359-15a3617c767b_story.html)" as cited in the book *How Democracies Die*
+
+
+## News and Analysis
+
+"Amid heightened scrutiny of police unions and their place in the labor movement, the Martin Luther King County Labor Council voted Wednesday to expel the Seattle Police Officers Guild, which represents roughly 1,300 officers, from its ranks.
+The vote comes two weeks after the council, an affiliate of the national AFL-CIO, passed a resolution calling on SPOG to acknowledge and address racism within its ranks and law enforcement more generally, and to commit to negotiating collective bargaining agreements that do not evade accountability."
+
+-- from "[King County Labor Council expels Seattle police union][nsource]" by David Kroman at *Crosscut*
+
+[nsource]: https://crosscut.com/2020/06/king-county-labor-council-expels-seattle-police-union
+
+
+## Blog Post: Can the US Become a Truly Egalitarian Society?
 
 As with many of us, I've been thinking deeply lately about the murders of George Floyd, Ahmaud Arbery, Breanna Taylor, and so many other people of color, and wondering how and why these atrocities continue to occur in my country, and what we can do to turn things around. 
 
@@ -139,3 +136,93 @@ There's really no middle ground.
  
 
 [capitalism]: https://practopian.org/blog/hbowie/the-truth-about-capitalism.html
+
+
+-- Herb Bowie, first published at [Practopian.org](https://practopian.org/blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html) on June 15, 2020
+
+If you liked this blog post, feel free to give it a few claps on [Medium.com](https://medium.com/@hbowie/can-the-us-become-a-truly-egalitarian-society-9cd946554ecf).
+ 
+
+## Next Steps...
+
+Thanks for reading!
+
+Feedback is always welcome at [feedback@practopian.org](mailto:feedback@practopian.org).
+
+This post, and so much more, can always be found at [Practopian.org](https://practopian.org).
+
+
+## Recent Writings You Might Have Missed
+
+- "[Democracy](https://practopian.org/basics/democracy.html)"
+
+	A Practopian "Basics" piece that fleshes out the following core value: "We believe in democracy, with all citizens having an equal say in defining their society's laws, and an equal opportunity to influence their governments."
+
+- "[Why Do We Call It Capitalism?](https://practopian.org/blog/hbowie/why-do-we-call-it-capitalism.html)"
+
+	As Americans we generally believe in capitalism as a superior economic system, and are typically convinced that our country is run on capitalistic principles. But I've been wondering lately: If these things are really true, then why do so few Americans actually possess any capital?
+
+- "[Core Design Principles for Teams](https://practopian.org/blog/hbowie/core-design-principles-for-teams.html)"
+
+	David Sloan Wilson and his pals at Prosocial World have done the heavy lifting for us, providing the eight Core Design Principles to maximize the effectiveness of human groups of all sizes.
+
+- "[An Appreciation for the Song 'The Weight' by The Band](https://practopian.org/appreciation/the-weight.html)"
+
+	I recently came across the Playing for Change Song Around the World video of Robbie Robertson's composition "The Weight," and it made me want to think -- and write! -- more deeply about how this song works, and what it means, and the timeless nature of its appeal.
+
+- "[Patterns of Human Cooperation](https://practopian.org/blog/hbowie/patterns-of-human-cooperation.html)"
+
+	As humans our superpower is the ability to work cooperatively with others of our species. But these seemingly simple ideas of cooperation and coordination turn out to be devilishly complex in practice, especially in large undertakings.
+
+- "[Understanding Human History](https://practopian.org/blog/hbowie/understanding-human-history.html)"
+
+	When I was in school, history was one of my least favorite subjects: It just seemed like a bunch of arbitrary names and dates and events that I had to memorize. In hindsight, I realize now, the problem I had with the subject was that it had been "storified."
+
+
+[web]:        https://www.practopian.org/index.html
+[core]:       https://www.practopian.org/core/index.html
+[mission]:    https://www.practopian.org/core/mission.html
+[principles]: https://www.practopian.org/core/principles.html
+[values]:     https://www.practopian.org/core/values.html
+
+[ww]:         https://www.practopian.org/tags/written-word.html
+
+[love]:       https://www.practopian.org/tags/love.html
+[connection]: https://www.practopian.org/tags/connection.html
+[wonder]:     https://www.practopian.org/tags/wonder.html
+
+[humanist]:   https://www.practopian.org/tags/humanism.html
+[science]:    https://www.practopian.org/tags/science.html
+[evolution]:  https://www.practopian.org/tags/evolution.html
+[education]:  https://www.practopian.org/tags/education.html
+[ct]:    https://www.practopian.org/tags/critical-thinking.html
+[st]:         https://www.practopian.org/tags/systemic.html
+ 
+[individuals]: https://www.practopian.org/tags/individuals.html
+[liberty]:    https://www.practopian.org/tags/liberty.html
+[equality]:   https://www.practopian.org/tags/equality.html
+[diversity]:  https://www.practopian.org/tags/diversity.html
+
+[society]:    https://www.practopian.org/tags/society.html
+[governance]: https://www.practopian.org/tags/governance.html
+[democracy]:  https://www.practopian.org/tags/democracy.html
+[law]:        https://www.practopian.org/tags/rule-of-law.html
+[property]:   https://www.practopian.org/tags/property.html
+[parenthood]: https://www.practopian.org/tags/parenthood.html
+[value]:    https://www.practopian.org/tags/value-creation.html
+
+[storytelling]: https://www.practopian.org/tags/stories.html
+
+[culture]:    https://www.practopian.org/tags/cultural-evolution.html
+
+[balance]:    https://www.practopian.org/tags/balance.html
+[imperfections]: https://www.practopian.org/tags/imperfection.html
+[integral]:   https://www.practopian.org/tags/integral.html
+
+[prorg]:      https://www.practopian.org/index.html
+
+[quotations]: https://www.practopian.org/quotes/index.html
+[aw]: https://www.practopian.org/explore/latest-original-content.html
+
+[contact]: https://www.practopian.org/intro/contact.html
+
