@@ -8,5 +8,7 @@ Sort Descending: true
 
 Other Fields Allowed: false
 
-Double Bracket Parsing: false
+Mirror Auto Index: false
+
+Display Body Label: true
 

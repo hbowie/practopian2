@@ -978,6 +978,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-06-29", "The Progressive Path Forward - A 12-State Strategy", "Herb Bowie", "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html", "cultural evolution, democracy, progress", "cultural evolution");
+}
+ix++;
 link = "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -1486,6 +1492,12 @@ link = "basics/democracy.html";
 tag = "democracy";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2020-06-03", "Democracy", "Herb Bowie", "basics/democracy.html", "democracy", "democracy");
+}
+ix++;
+link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-06-29", "The Progressive Path Forward - A 12-State Strategy", "Herb Bowie", "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html", "cultural evolution, democracy, progress", "democracy");
 }
 ix++;
 link = "blog/hbowie/why-do-we-call-it-capitalism.html";
@@ -3544,6 +3556,12 @@ link = "quotes/which-side-will-lose-by-winning.html";
 tag = "practopian";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2019-08-22 01:30:39 +0000", "Which side will lose by winning", "Richard Powers", "quotes/which-side-will-lose-by-winning.html", "evolution, practopian, systemic", "practopian");
+}
+ix++;
+link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
+tag = "progress";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-06-29", "The Progressive Path Forward - A 12-State Strategy", "Herb Bowie", "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html", "cultural evolution, democracy, progress", "progress");
 }
 ix++;
 link = "blog/hbowie/understanding-human-history.html";

@@ -1,24 +1,24 @@
-Title: 
+Title:  
 
-Subtitle: 
+Tags:  
 
-Tags: 
+Subtitle:  
 
-Type: 
+Type:  
 
-Author: 
+Author:  
 
-Date: 
+Date:  
 
-Status: 
+Status: 0 - Idea; 1 - Proposed; 2 - Approved; 3 - Planned; 4 - In Work; 5 - Held; 6 - Completed; 7 - FollowUp; 8 - Canceled; 9 - Closed;  
 
-Link: 
+Link:  
 
-Index: 
+Index:  
 
-Image: 
+Image:  
 
-Teaser: 
+Teaser: <longtext> 
 
-Body: 
+Body:  
 

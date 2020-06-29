@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-06-29", "The Progressive Path Forward - A 12-State Strategy", "Herb Bowie", "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html", "cultural evolution, democracy, progress", "");
+}
+ix++;
 link = "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-06-15", "Can the US Become a Truly Egalitarian Society?", "Herb Bowie", "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html", "cultural evolution, equality, society", "");
