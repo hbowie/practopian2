@@ -978,6 +978,12 @@ if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-05-22", "Evolution and Its Implications", "Herb Bowie", "basics/evolution-and-its-implications.html", "cultural evolution, evolution", "cultural evolution");
 }
 ix++;
+link = "blog/hbowie/cooperation-competition-and-coercion.html";
+tag = "cultural evolution";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-07-17", "Cooperation, Competition and Coercion", "Herb Bowie", "blog/hbowie/cooperation-competition-and-coercion.html", "cultural evolution, equality, society", "cultural evolution");
+}
+ix++;
 link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
 tag = "cultural evolution";
 if (link != "" && tag != "") {
@@ -1930,6 +1936,12 @@ link = "quotes/quality-of-children-vs-quantity.html";
 tag = "education";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "education");
+}
+ix++;
+link = "blog/hbowie/cooperation-competition-and-coercion.html";
+tag = "equality";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-07-17", "Cooperation, Competition and Coercion", "Herb Bowie", "blog/hbowie/cooperation-competition-and-coercion.html", "cultural evolution, equality, society", "equality");
 }
 ix++;
 link = "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html";
@@ -4042,6 +4054,12 @@ link = "appreciation/the-village-green-preservation-society.html";
 tag = "society";
 if (link != "" && tag != "") {
 pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2018-09-21", "The Village Green Preservation Society", "Herb Bowie", "appreciation/the-village-green-preservation-society.html", "humanism, society", "society");
+}
+ix++;
+link = "blog/hbowie/cooperation-competition-and-coercion.html";
+tag = "society";
+if (link != "" && tag != "") {
+pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-07-17", "Cooperation, Competition and Coercion", "Herb Bowie", "blog/hbowie/cooperation-competition-and-coercion.html", "cultural evolution, equality, society", "society");
 }
 ix++;
 link = "blog/hbowie/can-the-us-become-a-truly-egalitarian-society.html";

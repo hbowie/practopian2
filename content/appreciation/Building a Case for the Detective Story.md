@@ -107,11 +107,17 @@ But then, as [E.M. Forster noted][forster]:
  
 > Failure or success seem to have been allotted to men by their stars. But they retain the power of wriggling, of fighting with their star or against it, and in the whole universe the only really interesting movement is this wriggle.
 
-They detective story focuses our attention on this wriggling. The detective is, quintessentially, a wriggler: someone who is not content to simply accept the events that happen to them and others around them, but someone who fights against them, who takes action to change the course of the story, to uncover the criminal, to prevent further criminal acts. 
+The detective story focuses our attention on this wriggling. The detective is, quintessentially, a wriggler: someone who is not content to simply accept the events that happen to them and others around them, but someone who fights against them, who takes action to change the course of the story, to uncover the criminal, to prevent further criminal acts. 
 
 And in this world of ours today, we need a hell of a lot more wriggling. 
+
+## 5. Distinguishing between Appearance and Reality
+
+If all of reality were available to us through surface appearances, then there would be no role for detectives, and there would be no mysteries to unravel. But the premise of every detective story is that the way things appear is quite different from the way things actually are and, as the story unfolds, one illusion after another typically falls away, revealing the underlying reality. 
+
+Stories of detection also typically reveal the actions of characters under pressure -- often both perpetrators and the detectives themselves -- with the strong presumption that what people do under pressure reveals some truer character than that revealed in more ordinary circumstances.   
  
-## 5. A Beacon of Rationality
+## 6. A Beacon of Rationality
 
 Many detective stories, especially the earlier ones, are a great deal about the triumph of reason over superstition. Consider, for example, Arthur Conan Doyle's Sherlock Holmes story, *The Hound of the Baskervilles*, or many of the novels by John Dickson Carr.
 
@@ -125,7 +131,7 @@ Almost all mysteries, though, teach us the important elements of [critical think
 
 In this way a good detective story will demonstrate for us the advantages of achieving the [modern level of development][devlev], including application of the scientific method. 
 
-## 6. Narrative Abundance
+## 7. Narrative Abundance
 
 Almost every good mystery will have to tell us, not just one, but several good stories.
 
@@ -143,7 +149,7 @@ f) The ornamental story: various other tales embedded in the narration in order 
 
 The weaving together of all these tales into a cohesive whole is not easy, but proves rewarding and entertaining when done well. 
 
-## 7. A Great Deal of Fun
+## 8. A Great Deal of Fun
 
 A mystery author is much like a magician: in order to work her magic in plain sight of her audience, she has to devise a whole series of entertaining distractions. 
 
@@ -159,11 +165,11 @@ As Chandler noted, we want a world that is a safe place to live in, "and yet not
 
 In a good mystery, life is never dull. 
 
-## 8. A Sense of Humor
+## 9. A Sense of Humor
 
 Occasional humor provides a nice contrast with the inevitably dark presentation of evil deeds, and helps to round out the author's notion of a life well lived. An entirely humorless novel about murder would be a grim affair indeed. 
 
-## 9. Great Writing
+## 10. Great Writing
 
 We all have different standards by which we judge such a thing, but my favorite mysteries all share a careful attention to language used in novel ways to make us see our normal surroundings in a new and different light. 
 
@@ -175,7 +181,7 @@ The bare facts contained in this sentence could have easily been communicated in
 
 Different authors have different styles, but for me it is important to have some sense of style, and a sure command of the language used to convey something more than a rote description of everyday events.  
 
-## 10. A Playful Sense of Adventure
+## 11. A Playful Sense of Adventure
 
 Finally, a good mystery offers the thrill of the chase, the adventure of encountering the new and the unknown, a rapid succession of momentous events, and the threat of danger. As readers we are often aware of a strong sense of play exhibited by the author in the contrivance of these portions of the narrative, and yet we are still swept up in the action, happily granting the author a willing suspension of disbelief. 
 

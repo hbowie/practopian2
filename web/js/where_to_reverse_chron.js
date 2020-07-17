@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/cooperation-competition-and-coercion.html";
+if (link != "") {
+pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-07-17", "Cooperation, Competition and Coercion", "Herb Bowie", "blog/hbowie/cooperation-competition-and-coercion.html", "cultural evolution, equality, society", "");
+}
+ix++;
 link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";
 if (link != "") {
 pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-06-29", "The Progressive Path Forward - A 12-State Strategy", "Herb Bowie", "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html", "cultural evolution, democracy, progress", "");
