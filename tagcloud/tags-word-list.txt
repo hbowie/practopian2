@@ -6,9 +6,9 @@
 34	democracy	https://www.Practopian.org/tags/democracy.html
 13	diversity	https://www.Practopian.org/tags/diversity.html
 27	education	https://www.Practopian.org/tags/education.html
-46	equality	https://www.Practopian.org/tags/equality.html
+47	equality	https://www.Practopian.org/tags/equality.html
 11	evolution	https://www.Practopian.org/tags/evolution.html
-35	governance	https://www.Practopian.org/tags/governance.html
+36	governance	https://www.Practopian.org/tags/governance.html
 32	humanism	https://www.Practopian.org/tags/humanism.html
 09	imperfection	https://www.Practopian.org/tags/imperfection.html
 37	individuals	https://www.Practopian.org/tags/individuals.html
@@ -25,10 +25,11 @@
 21	religion	https://www.Practopian.org/tags/religion.html
 04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
 18	science	https://www.Practopian.org/tags/science.html
-51	society	https://www.Practopian.org/tags/society.html
+52	society	https://www.Practopian.org/tags/society.html
 14	stories	https://www.Practopian.org/tags/stories.html
 23	sustainability	https://www.Practopian.org/tags/sustainability.html
 20	systemic	https://www.Practopian.org/tags/systemic.html
 02	tools	https://www.Practopian.org/tags/tools.html
-23	value creation	https://www.Practopian.org/tags/value-creation.html
+24	value creation	https://www.Practopian.org/tags/value-creation.html
 18	wonder	https://www.Practopian.org/tags/wonder.html
+19	written word	https://www.Practopian.org/tags/written-word.html
