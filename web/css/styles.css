@@ -564,6 +564,37 @@ table.toc {
 	text-align: right;
 }
 
+.give-div { 
+	clear: both;
+	border-style: solid;
+	border-width: 2px;
+	border-color: #808080;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-left: 8px;
+	padding-right: 8px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border-radius: 25px; 
+}
+
+.give-div h3 {
+  text-align: center;
+  font-size: 1.0em;
+}
+
+.give-div p {
+  font-size: 0.8em;
+  font-family: 'concourse_t3regular', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.give-div form {
+  margin: 0 auto;
+  text-align: center;
+}
+
 .years
 {
 	text-align: center;
