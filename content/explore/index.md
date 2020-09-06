@@ -22,7 +22,8 @@ Here's the complete list of content types, starting with original content.
 <li><a href="../core/index.html">Core</a> - The fundamentals of our worldview</li>
 <li><a href="../issues/index.html">Issues</a> - Our focus for action</li>
 <li><a href="../basics/index.html">Basics</a> - Expanded info on our core beliefs</li>
-<li><a href="../blog/index.html">Blog</a> - Commentary from a Practopian perspective. Also indexed <a href="../blog/index-by-title.html">by Title</a></li>
+<li><a href="../blog/index.html">Blog</a> - Commentary from a Practopian perspective. Also indexed <a href="../blog/index-by-title.html">by Title</a>.</li>
+<li><a href="../appreciation/index.html">Appreciations</a> - Enthusiastic and hopefully insightful commentary on the artistic works of others.</li>
 <li><a href="../perspective/index.html">Emails</a> - Past Issues of the Practopian Perspective</li> 
 </ul>
 

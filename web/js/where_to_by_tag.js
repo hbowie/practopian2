@@ -210,6 +210,12 @@ if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:32", "Vital and Significant Forms of Art", "Raymond Chandler", "quotes/vital-and-significant-forms-of-art.html", "art, individuals", "art");
 }
 ix++;
+link = "blog/hbowie/the-shocking-truth-about-us-liberals.html";
+tag = "balance";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-09-06", "The Shocking Truth About Us Liberals", "Herb Bowie", "blog/hbowie/the-shocking-truth-about-us-liberals.html", "balance, critical thinking, democracy", "balance");
+}
+ix++;
 link = "blog/hbowie/what-trump-gets-right.html";
 tag = "balance";
 if (link != "" && tag != "") {
@@ -520,6 +526,12 @@ link = "appreciation/building-a-case-for-the-detective-story.html";
 tag = "critical thinking";
 if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2019-05-07", "Building a Case for the Detective Story", "Herb Bowie", "appreciation/building-a-case-for-the-detective-story.html", "critical thinking, cultural evolution, stories", "critical thinking");
+}
+ix++;
+link = "blog/hbowie/the-shocking-truth-about-us-liberals.html";
+tag = "critical thinking";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-09-06", "The Shocking Truth About Us Liberals", "Herb Bowie", "blog/hbowie/the-shocking-truth-about-us-liberals.html", "balance, critical thinking, democracy", "critical thinking");
 }
 ix++;
 link = "blog/hbowie/understanding-human-history.html";
@@ -1498,6 +1510,12 @@ link = "basics/democracy.html";
 tag = "democracy";
 if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Basics", "Basic Info", "2020-06-03", "Democracy", "Herb Bowie", "basics/democracy.html", "democracy", "democracy");
+}
+ix++;
+link = "blog/hbowie/the-shocking-truth-about-us-liberals.html";
+tag = "democracy";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-09-06", "The Shocking Truth About Us Liberals", "Herb Bowie", "blog/hbowie/the-shocking-truth-about-us-liberals.html", "balance, critical thinking, democracy", "democracy");
 }
 ix++;
 link = "blog/hbowie/the-progressive-path-forward-a-12-state-strategy.html";

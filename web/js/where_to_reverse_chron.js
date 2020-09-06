@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/the-shocking-truth-about-us-liberals.html";
+if (link != "") {
+  pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-09-06", "The Shocking Truth About Us Liberals", "Herb Bowie", "blog/hbowie/the-shocking-truth-about-us-liberals.html", "balance, critical thinking, democracy", "");
+}
+ix++;
 link = "blog/hbowie/undoing-trumpism.html";
 if (link != "") {
   pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-08-04", "Undoing Trumpism", "Herb Bowie", "blog/hbowie/undoing-trumpism.html", "equality, governance, society, value creation", "");
