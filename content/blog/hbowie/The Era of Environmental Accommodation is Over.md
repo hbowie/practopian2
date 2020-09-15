@@ -110,7 +110,7 @@ Management of a total environmental system will have to look at adjustments to b
 
 ## Bottom Line
 
-We have to change our way of thinking about who we are, and our relationship to the planet on which we reside. This won't be easy. We can close our eyes and resist the change if we'd like. But the change will be coming, whether we want it or not, and putting it off won't make it any easier.  
+We have to change our way of thinking about who we are, and our relationship to the planet on which we reside. Humans and human-built systems are now competing with -- and often overwhelming -- natural systems that have evolved over millennia. We have to take responsibility as a species, not only for our own future, but for the future of our planet. This change in thinking won't be easy. We can close our eyes and resist the change if we'd like. But the change will be coming, whether we want it or not, and putting it off won't make it any easier. 
 
 
 [agra]: https://en.wikipedia.org/wiki/Neolithic_Revolution
