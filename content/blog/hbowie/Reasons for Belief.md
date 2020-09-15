@@ -62,7 +62,7 @@ As [Bertrand Russell][russell] pointed out:
 	
 > Many orthodox people speak as though it were the business of skeptics to disprove received dogmas rather than of dogmatics to prove them. This is, of course, a mistake. If I were to suggest that between the Earth and Mars there is a china teapot revolving about the sun in an elliptical orbit, nobody would be able to disprove my assertion provided I were careful to add that the teapot is too small to be revealed even by our most powerful telescopes. But if I were to go on to say that, since my assertion cannot be disproved, it is intolerable presumption on the part of human reason to doubt it, I should rightly be thought to be talking nonsense. If, however, the existence of such a teapot were affirmed in ancient books, taught as the sacred truth every Sunday, and instilled into the minds of children at school, hesitation to believe in its existence would become a mark of eccentricity and entitle the doubter to the attentions of the psychiatrist in an enlightened age or of the Inquisitor in an earlier time.
 
-### 6. To Avoid Conflict
+#### 6. To Avoid Conflict
 
 Even if I don't believe something to be true, I may accept a statement without challenge, if to do otherwise would cause division and strife, especially between two powerful groups. This is typical of religious beliefs, for example, when multiple religions co-exist in a shared cultural space. 
 

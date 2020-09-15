@@ -8,7 +8,7 @@ Date:  5 September 2020
 
 Status: 9 - Published
 
-Tags: democracy
+Tags: democracy, balance, critical thinking
 
 Index: US politics
 Index: politics, US

@@ -4476,6 +4476,12 @@ if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-12-19 16:27:23", "Cockpits with Instruments Controlled by Gremlins", "Robert D. Austin", "quotes/cockpits-with-instruments-controlled-by-gremlins.html", "humanism, liberty, stories", "stories");
 }
 ix++;
+link = "blog/hbowie/the-era-of-environmental-accommodation-is-over.html";
+tag = "sustainability";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-09-15", "The Era of Environmental Accommodation is Over", "Herb Bowie", "blog/hbowie/the-era-of-environmental-accommodation-is-over.html", "sustainability, systemic", "sustainability");
+}
+ix++;
 link = "blog/hbowie/8-big-lessons-we-can-learn-from-the-pandemic.html";
 tag = "sustainability";
 if (link != "" && tag != "") {
@@ -4612,6 +4618,12 @@ link = "quotes/quality-of-children-vs-quantity.html";
 tag = "sustainability";
 if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Quotes", "Quotation", "2006-11-30 14:29:31", "Quality of Children vs. Quantity", "Margaret Mead", "quotes/quality-of-children-vs-quantity.html", "education, parenthood, sustainability", "sustainability");
+}
+ix++;
+link = "blog/hbowie/the-era-of-environmental-accommodation-is-over.html";
+tag = "systemic";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-09-15", "The Era of Environmental Accommodation is Over", "Herb Bowie", "blog/hbowie/the-era-of-environmental-accommodation-is-over.html", "sustainability, systemic", "systemic");
 }
 ix++;
 link = "blog/hbowie/core-design-principles-for-teams.html";

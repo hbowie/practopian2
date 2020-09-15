@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/the-era-of-environmental-accommodation-is-over.html";
+if (link != "") {
+  pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-09-15", "The Era of Environmental Accommodation is Over", "Herb Bowie", "blog/hbowie/the-era-of-environmental-accommodation-is-over.html", "sustainability, systemic", "");
+}
+ix++;
 link = "blog/hbowie/the-shocking-truth-about-us-liberals.html";
 if (link != "") {
   pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-09-06", "The Shocking Truth About Us Liberals", "Herb Bowie", "blog/hbowie/the-shocking-truth-about-us-liberals.html", "balance, critical thinking, democracy", "");
