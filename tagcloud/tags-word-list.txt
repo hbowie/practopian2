@@ -25,11 +25,11 @@
 21	religion	https://www.Practopian.org/tags/religion.html
 04	rule of law	https://www.Practopian.org/tags/rule-of-law.html
 18	science	https://www.Practopian.org/tags/science.html
-52	society	https://www.Practopian.org/tags/society.html
+53	society	https://www.Practopian.org/tags/society.html
 14	stories	https://www.Practopian.org/tags/stories.html
 24	sustainability	https://www.Practopian.org/tags/sustainability.html
 21	systemic	https://www.Practopian.org/tags/systemic.html
 02	tools	https://www.Practopian.org/tags/tools.html
-24	value creation	https://www.Practopian.org/tags/value-creation.html
+25	value creation	https://www.Practopian.org/tags/value-creation.html
 18	wonder	https://www.Practopian.org/tags/wonder.html
 19	written word	https://www.Practopian.org/tags/written-word.html

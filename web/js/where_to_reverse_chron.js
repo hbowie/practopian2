@@ -1,5 +1,10 @@
 
 ix = 0;
+link = "blog/hbowie/reframing-our-debates-about-capitalism.html";
+if (link != "") {
+  pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie\", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "");
+}
+ix++;
 link = "blog/hbowie/the-era-of-environmental-accommodation-is-over.html";
 if (link != "") {
   pages_by_descending_date[ix] = new Page("Blog", "Blog Post", "2020-09-15", "The Era of Environmental Accommodation is Over", "Herb Bowie", "blog/hbowie/the-era-of-environmental-accommodation-is-over.html", "sustainability, systemic", "");

@@ -4086,6 +4086,12 @@ if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Appreciation", "Appreciation", "2018-09-21", "The Village Green Preservation Society", "Herb Bowie", "appreciation/the-village-green-preservation-society.html", "humanism, society", "society");
 }
 ix++;
+link = "blog/hbowie/reframing-our-debates-about-capitalism.html";
+tag = "society";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie\", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "society");
+}
+ix++;
 link = "blog/hbowie/undoing-trumpism.html";
 tag = "society";
 if (link != "" && tag != "") {
@@ -4762,6 +4768,12 @@ link = "basics/value-creation.html";
 tag = "value creation";
 if (link != "" && tag != "") {
   pages_by_tag[ix] = new Page("Basics", "Basic Info", "2018-07-24", "Value Creation", "Herb Bowie", "basics/value-creation.html", "value creation", "value creation");
+}
+ix++;
+link = "blog/hbowie/reframing-our-debates-about-capitalism.html";
+tag = "value creation";
+if (link != "" && tag != "") {
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie\", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "value creation");
 }
 ix++;
 link = "blog/hbowie/undoing-trumpism.html";
