@@ -4089,7 +4089,7 @@ ix++;
 link = "blog/hbowie/reframing-our-debates-about-capitalism.html";
 tag = "society";
 if (link != "" && tag != "") {
-  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie\", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "society");
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "society");
 }
 ix++;
 link = "blog/hbowie/undoing-trumpism.html";
@@ -4773,7 +4773,7 @@ ix++;
 link = "blog/hbowie/reframing-our-debates-about-capitalism.html";
 tag = "value creation";
 if (link != "" && tag != "") {
-  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie\", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "value creation");
+  pages_by_tag[ix] = new Page("Blog", "Blog Post", "2020-10-12", "Reframing our Debates about Capitalism", "Herb Bowie", "blog/hbowie/reframing-our-debates-about-capitalism.html", "society, value creation", "value creation");
 }
 ix++;
 link = "blog/hbowie/undoing-trumpism.html";
